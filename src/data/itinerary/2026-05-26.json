@@ -1,0 +1,36 @@
+[
+  {
+    "type": "breakfast",
+    "schedule": "7am"
+  },
+  {
+    "id": "act-20260526-1",
+    "placeId": "acropolis",
+    "schedule": "8am a 11am",
+    "comments": "Solo nos dejarán pasar de 7:45 a 8:15, llegar muy puntuales"
+  },
+  {
+    "id": "act-20260526-2",
+    "placeId": "museo-acropolis",
+    "schedule": "11am a 1pm",
+    "comments": "Despues de las 11:15am ya no dejan pasar"
+  },
+  {
+    "id": "act-20260526-3",
+    "placeId": "plaka",
+    "schedule": "1pm a 3pm",
+    "comments": "Recorrer el lugar y comer"
+  },
+  {
+    "id": "act-20260526-4",
+    "placeId": "museo-nacional-atenas",
+    "schedule": "3pm a 6pm",
+    "comments": "Recorrer eel lugar y comer"
+  },
+  {
+    "type": "work",
+    "id": "work-20260524",
+    "schedule": "Desde las 7pm hasta las 11pm",
+    "comments": "Standup a las 7pm."
+  }
+]

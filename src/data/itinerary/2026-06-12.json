@@ -1,0 +1,48 @@
+[
+  {
+    "type": "breakfast",
+    "schedule": "6:30am a 7am",
+    "comments": "Temprano; excursión sale ~8:00."
+  },
+  {
+    "id": "act-20260612-1",
+    "placeId": "hallstatt",
+    "schedule": "8am a 12:30pm",
+    "comments": "Excursión medio día (Hallstatt + mina de sal según operador). Buffer hasta 13:00 si hay retraso."
+  },
+  {
+    "type": "lunch",
+    "schedule": "1pm a 2pm",
+    "comments": "Hora reservada tras la excursión."
+  },
+  {
+    "id": "act-20260612-2",
+    "placeId": "getreidegasse",
+    "schedule": "2pm a 2:30pm",
+    "comments": "Paseo por la calle más famosa; misma zona que las casas Mozart."
+  },
+  {
+    "id": "act-20260612-3",
+    "placeId": "casa-natal-mozart",
+    "schedule": "2:30pm a 3:30pm",
+    "comments": "Museo del nacimiento — interior. Cierra 17:30."
+  },
+  {
+    "id": "act-20260612-4",
+    "placeId": "residencia-mozart",
+    "schedule": "3:45pm a 5pm",
+    "comments": "~1 h 15; ~10 min a pie desde la casa natal. Cierra 17:30."
+  },
+  {
+    "id": "act-20260612-5",
+    "placeId": "mozarteum",
+    "schedule": "5:05pm a 5:20pm",
+    "comments": "Solo exterior — fachada y entorno; ~10 min a pie desde la Residencia Mozart. Sin entrar salvo que haya concierto aparte."
+  },
+  {
+    "id": "act-20260612-6",
+    "placeId": "concierto-mozart-mirabell",
+    "schedule": "8pm a 9:30pm",
+    "comments": "Reservación viernes 12 de junio a las 20:00. Llegar ~19:30. Actividad adicional tras la visita al Palacio de Mirabell (jueves)."
+  }
+]

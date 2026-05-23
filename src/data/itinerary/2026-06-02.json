@@ -1,0 +1,54 @@
+[
+  {
+    "type": "breakfast",
+    "schedule": "7am",
+    "comments": ""
+  },
+  {
+    "id": "act-20260602-1",
+    "placeId": "plaza-heroes",
+    "schedule": "8am a 10:00am",
+    "comments": "Monumento del Milenio y paseo tranquilo por los jardines del Városliget."
+  },
+  {
+    "id": "act-20260602-2",
+    "placeId": "castillo-vajdahunyad",
+    "schedule": "10:00am a 10:30am",
+    "comments": "Castillo Vajdahunyad, uno de los castillos más importantes de la ciudad. Es un castillo gótico que ha sido transformado en un castillo romántico."
+  },
+  {
+    "id": "act-20260602-3",
+    "placeId": "museo-bellas-artes-budapest",
+    "schedule": "10:30am a 11am",
+    "comments": "Solo exterior — junto al parque; no entrar al museo."
+  },
+  {
+    "id": "act-20260602-4",
+    "placeId": "centro-memorial-del-holocausto",
+    "schedule": "11:15am a 12:15pm",
+    "comments": "Primera parada al sur del parque; ~20 min en metro o tranvía desde Hősök tere."
+  },
+  {
+    "id": "act-20260602-5",
+    "placeId": "museo-nacional-hungaro",
+    "schedule": "12:30pm a 3pm",
+    "comments": "Visita por dentro — 2,5 h. A ~10 min a pie del memorial."
+  },
+  {
+    "type": "lunch",
+    "schedule": "3pm a 4pm",
+    "comments": "Almuerzo cerca del museo o camino a la sinagoga."
+  },
+  {
+    "id": "act-20260602-6",
+    "placeId": "gran-sinagoga-dohany",
+    "schedule": "4pm a 6pm",
+    "comments": "La sinagoga más grande de Europa (~2 h). Última visita del día; salir directo al hotel."
+  },
+  {
+    "type": "work",
+    "id": "work-20260602",
+    "schedule": "6pm a 12am",
+    "comments": "En el hotel desde las 6pm."
+  }
+]

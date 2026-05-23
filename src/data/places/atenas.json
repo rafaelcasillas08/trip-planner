@@ -1,0 +1,192 @@
+[
+  {
+    "id": "agora-antigua",
+    "cityId": "atenas",
+    "name": "Ágora Antigua y Templo de Hefesto",
+    "location": "https://maps.app.goo.gl/7H7QzT2K9ofsX4Kt5",
+    "photos": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFYFfi7RvRe--f8BgXERRpfDkarSs6BtR7MZuwhhBBj-0P88ZntjX3W07FsdvoI5cjV5rSwlh3pHXCk87gkOetMQG_AyW4UwfLLsFtkKPVGeT8Q_2JVsp3jjCLMRU7Ekwe-Bi08WyRDBmaw=w397-h298-k-no",
+      "https://lh3.googleusercontent.com/grass-cs/ANxoTn1BwQuAKihdkEX1XBpKhJuGPOs_ABumRtVSafWruSQS2x4sS8EZyjdFvcH0SFYhwK4eeCjUw-3Bd-kNIFzAyi2XlOWEsh1F1EFzB-qRzX3T7BU39dbqyZ2FkWvcYrSXEq_x_aFlWLVEhOQG=w600-h450-p-k-no"
+    ],
+    "comments": "",
+    "cost": "",
+    "transport": "",
+    "website": "",
+    "hours": "Todos los días 08:00-20:00",
+    "timeNeeded": "2 hrs",
+    "lat": 37.974969,
+    "lng": 23.7209668
+  },
+  {
+    "id": "acropolis",
+    "cityId": "atenas",
+    "name": "La Acrópolis",
+    "location": "https://maps.app.goo.gl/EGbBJQi817B7VnTZ9",
+    "photos": [
+      "https://www.athenstours365.com/wp-content/uploads/2021/10/acropolis.jpg",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4mMcq9Zu9nSBZWN00T_YulDaBJ-D1BDYkQQ&s"
+    ],
+    "comments": "",
+    "cost": "€20",
+    "transport": "Metro línea 2, estación Akropoli",
+    "website": "",
+    "hours": "",
+    "timeNeeded": "3 hrs",
+    "lat": 37.9720923,
+    "lng": 23.7223165
+  },
+  {
+    "id": "museo-acropolis",
+    "cityId": "atenas",
+    "name": "Museo de la Acrópolis",
+    "location": "https://maps.app.goo.gl/wuKZm5DbNnVURvPG6",
+    "photos": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAER5jcEdAstFUS_kOutLsW_TbCfMvlbHWr7XV0_vJBe89DDG5mxjmH7Bd2Lw0hkCfEekp3wpz_9VgIIRBe7Xkhkfr3sVrcFF0I4IyQK7H2dp656MWZt5JEI4kd0PxMG-lWZ9f7CMQ=w408-h306-k-no"
+    ],
+    "comments": "Imprescindible antes o después de subir a la Acrópolis. Contiene las esculturas originales del Partenón.",
+    "cost": "€10",
+    "transport": "A 300m de la Acrópolis, estación metro Akropoli",
+    "website": "https://www.theacropolismuseum.gr",
+    "hours": "Lunes: 9 a.m. - 5 p.m. Martes-Domingo: 9 a.m. - 8 p.m.",
+    "timeNeeded": "2 hrs",
+    "lat": 37.9684,
+    "lng": 23.7288
+  },
+  {
+    "id": "templo-zeus",
+    "cityId": "atenas",
+    "name": "Templo de Zeus Olímpico",
+    "location": "https://maps.app.goo.gl/VnWsJKxp2esT7sXRA",
+    "photos": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHSCVH3es9Zwim9NIJEYtR0BuWzO2wLxyXCDdTQDI86jTjkpeyKN61dwSAFdoS46qSY2QJ9Xrg7Uj7p7c_dklhCZNw6fxF4Ul_mpRLPVelndJ1QMPd6kbHbwZT8wcisKUYO5hqZ=w408-h272-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFQ1p6XIXu8Am0z6olR5aoblhz2X-r4cIeQfrpcOngOW7QAbxM78L_8E193aIVA6zlofieicJl_N0ElSw0CKC_6-S3KqAlTL_CVV_ppCKKMToJi58GaG7-rPkYehet82gTitCW_=w408-h544-k-no"
+    ],
+    "comments": "",
+    "cost": "€30",
+    "transport": "",
+    "website": "",
+    "hours": "",
+    "timeNeeded": "30 min",
+    "lat": 37.9697417,
+    "lng": 23.7321113
+  },
+  {
+    "id": "palacio-zappeion",
+    "cityId": "atenas",
+    "name": "Palacio Záppeion",
+    "location": "https://maps.app.goo.gl/EYgRiqjy1AX9krN99",
+    "photos": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHreLW2UocTzph45Y_ZPuLZ7reBa7oBAUpRYKzfp6Y0iVLXwQk5MDnBgpsf81CdorDQ7GxIx25RoH8xGVMIHevAgExmqj4ARJMGOpCaQA8eaHYQL2m_zkkuXNyEwsgkJc7VNnHHGem96AuR=w408-h306-k-no"
+    ],
+    "comments": "",
+    "cost": "",
+    "transport": "Caminando, está entre el templo de Zeus y el Panathenaic Stadium",
+    "website": "",
+    "hours": "",
+    "timeNeeded": "30 min",
+    "lat": 37.9689325,
+    "lng": 23.7340436
+  },
+  {
+    "id": "panathenaic-stadium",
+    "cityId": "atenas",
+    "name": "Panathenaic Stadium",
+    "location": "https://maps.app.goo.gl/apw9BuuqSpwQ9BAq9",
+    "photos": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHkutOkYSgYSMXH01oZw-XGS-kqwZxlHIwRDmLKBYVMUErVZoPjXDZw5IpzFbtWtSf_d_oSQg9kTidjm4aXM8Ud7Fn-Wnblm_2RFr1OS5XNINeYaj0p-CI96YBHt6QMRhpFKqU=w408-h306-k-no"
+    ],
+    "comments": "",
+    "cost": "",
+    "transport": "",
+    "website": "",
+    "hours": "",
+    "timeNeeded": "1.5 hrs",
+    "lat": 37.9689325,
+    "lng": 23.7340436
+  },
+  {
+    "id": "museo-benaki",
+    "cityId": "atenas",
+    "name": "Museo Benaki",
+    "location": "https://maps.app.goo.gl/gfC8VRRuSMR7qPjm8",
+    "photos": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGX-hTR4yZAArVr_R27UTjJvNrCFlc9f7VxBN_necc9mbDrfRMRl5bEvlj4YaGC1xGbFG1DUuK2GhpwIC35mVv4cEnrUfh6J07ywE02CmLZzxrIkDhVQNaJF4CbOWDeD0tRIz_5=w408-h306-k-no"
+    ],
+    "comments": "",
+    "cost": "",
+    "transport": "",
+    "website": "",
+    "hours": "",
+    "timeNeeded": "2 hrs",
+    "lat": 37.9759433,
+    "lng": 23.7405808
+  },
+  {
+    "id": "museo-nacional-atenas",
+    "cityId": "atenas",
+    "name": "Museo Arqueológico Nacional Atenas",
+    "location": "https://maps.app.goo.gl/TttEwTGWmQGesGR5A",
+    "photos": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAG27iVajPJpxWcoQod26LgiyiMvT1IhFv-hjsRrTQXtdm_9hC76FDjsRuRVntbJpvkIFbyFf1Wn2Gn5HNfDsCgEMu3nFIi6cc00pNgvar2DqgpdxI6429oujkPzLn4IwYlZQ9JO=w408-h272-k-no"
+    ],
+    "comments": "La colección más importante de arte y arqueología griega del mundo.",
+    "cost": "",
+    "transport": "",
+    "website": "",
+    "hours": "",
+    "timeNeeded": "3 hrs",
+    "lat": 37.9736528,
+    "lng": 23.7157703
+  },
+  {
+    "id": "plaka",
+    "cityId": "atenas",
+    "name": "Barrio de Plaka",
+    "location": "https://maps.app.goo.gl/d9C5E9YWXj5PHKTd6",
+    "photos": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEGQmi9GRcAKTlkrvNrtpkWJOpCbBYs4rRyE9I_MrYsU6pZ1DTobnBuZG3xPVNo9Nk8gHSVTr_27h5gQw9OU2c_trVczqMgCBrBWshK1Ncmzj5lW96a2OSs1-dH8o38B1OtcJmKpA=w408-h272-k-no"
+    ],
+    "comments": "Barrio muy bonito para caminar y comer.",
+    "cost": "Gratis",
+    "transport": "A pie desde la Acrópolis",
+    "website": "",
+    "hours": "Siempre abierto",
+    "timeNeeded": "1 hrs",
+    "lat": 37.9738,
+    "lng": 23.7285
+  },
+  {
+    "id": "areopago",
+    "cityId": "atenas",
+    "name": "Colina del Areópago",
+    "location": "https://maps.app.goo.gl/B8xCH9LhMyJReupV9",
+    "photos": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGl1GGiCpkwmB6BHD2-SKxE5t6nqIPXWT-iovZii54LAfE7-cqmlNh61Cp7_Z-1sAZwn5zcLVdT0k263uMkneHnFedBJvkkT044By1ds5vtFaWxSnu5rTlyctQJBJjtbxjPHSi6=w408-h403-k-no"
+    ],
+    "comments": "Ideal para ver el atardecer. El Areópago es la colina donde San Pablo predicó a los atenienses. Vista panorámica de la Acrópolis.",
+    "cost": "Gratis",
+    "transport": "A pie desde la Acrópolis",
+    "website": "",
+    "hours": "Siempre abierto",
+    "timeNeeded": "1 hrs",
+    "lat": 37.9738,
+    "lng": 23.7285
+  },
+  {
+    "id": "meteora",
+    "cityId": "atenas",
+    "name": "Excursión de un día a los monasterios de Meteora",
+    "location": "https://maps.app.goo.gl/ussF7iTSz8bzqsEE9",
+    "photos": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqWvGBBBQwlsx0r5b8sl_OHieGy71mobQIow&s"
+    ],
+    "comments": "Excursión de GetYourGuide. Visita el interior de 3 monasterios, ve los 8, descubre y contempla las cuevas de los ermitaños.",
+    "cost": "$1,760 por persona",
+    "transport": "Traslado de ida y vuelta desde Atenas en autobús",
+    "website": "https://www.getyourguide.com/es-mx/meteora-l15524/?date_from=2026-05-27&date_to=2026-05-27&adults=1&searchSource=8",
+    "hours": "8am a 10:30pm",
+    "timeNeeded": "16 hrs (incluye traslado)",
+    "lat": 39.7270889,
+    "lng": 21.625789
+  }
+]

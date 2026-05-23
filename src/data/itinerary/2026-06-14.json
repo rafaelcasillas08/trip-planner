@@ -1,0 +1,48 @@
+[
+  {
+    "type": "breakfast",
+    "schedule": "7am",
+    "comments": ""
+  },
+  {
+    "id": "act-20260614-1",
+    "placeId": "palacio-de-nymphenburg-munich",
+    "schedule": "9am a 12:30pm",
+    "comments": "Primera actividad del día — palacio + jardines (~4 h). U-Bahn/tram ~25 min desde el centro. Apertura 9:00."
+  },
+  {
+    "id": "act-20260613-16",
+    "placeId": "iglesia-de-asam-munich",
+    "schedule": "1:30pm a 2:10pm",
+    "comments": "Interior barroco; si cerrado, pendiente dom 14."
+  },
+  {
+    "type": "lunch",
+    "schedule": "2:15pm a 3:15pm",
+    "comments": "Cerca de Nymphenburg o en camino al centro."
+  },
+  {
+    "id": "act-20260613-6",
+    "placeId": "opera-de-munich",
+    "schedule": "3:30pm a 3:50pm",
+    "comments": "Solo exterior."
+  },
+  {
+    "id": "act-20260614-7",
+    "placeId": "museo-nacional-bavaro-munich",
+    "schedule": "4pm a 5pm",
+    "comments": "Museo Nacional Bávaro."
+  },
+  {
+    "id": "act-20260613-2",
+    "placeId": "casa-del-arte-munich",
+    "schedule": "5:05pm a 5:20pm",
+    "comments": "Solo exterior."
+  },
+  {
+    "id": "act-20260614-6",
+    "placeId": "siegestor-munich",
+    "schedule": "5:30pm a 6pm",
+    "comments": "~10 min a pie al norte por Leopoldstraße."
+  }
+]

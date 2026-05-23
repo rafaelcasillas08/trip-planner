@@ -1,0 +1,41 @@
+[
+  {
+    "id": "",
+    "cityId": "",
+    "name": "",
+    "location": "",
+    "photos": [],
+    "comments": "",
+    "cost": "",
+    "transport": "",
+    "website": "",
+    "hours": "",
+    "timeNeeded": "",
+    "lat": 0,
+    "lng": 0
+  },
+
+  {
+    "type": "transfer",
+    "fromCityId": "",
+    "toCityId": "",
+    "transportMode": "",
+    "duration": "",
+    "stationTime": "",
+    "departureTime": "",
+    "arrivalTime": "",
+    "comments": "",
+    "toStationTransfer": {
+      "schedule": ""
+    },
+    "toHotelTransfer": {
+      "schedule": ""
+    }
+  },
+
+  {
+    "type": "breakfast | lunch | dinner",
+    "schedule": "",
+    "comments": ""
+  }
+]

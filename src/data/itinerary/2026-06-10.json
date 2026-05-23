@@ -1,0 +1,14 @@
+[
+  {
+    "type": "work",
+    "id": "work-20260610",
+    "schedule": "Todo el día",
+    "comments": "Trabajo remoto en el hotel."
+  },
+  {
+    "id": "act-20260610-1",
+    "placeId": "kapuzinerberg",
+    "schedule": "8pm a 9:15pm",
+    "comments": "Única actividad del día. Subida a pie; en junio el atardecer es ~21:00. Llevar capa; volver al hotel después. Pausa breve del trabajo."
+  }
+]

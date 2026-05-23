@@ -1,0 +1,120 @@
+[
+  {
+    "type": "breakfast",
+    "schedule": "7am a 7:30am",
+    "comments": "En Salzburgo antes del check-out."
+  },
+  {
+    "type": "transfer",
+    "fromCityId": "salzburgo",
+    "toCityId": "munich",
+    "transportMode": "train",
+    "duration": "1h 30min",
+    "stationTime": "8:30am",
+    "departureTime": "9am",
+    "arrivalTime": "10:30am",
+    "comments": "Salzburg Hbf → München Hbf. Llevar equipaje; reservar asientos si es posible. Ajustar horarios al billete real.",
+    "toStationTransfer": {
+      "schedule": "8am a 8:30am",
+      "comments": "Traslado hotel Salzburgo → Salzburg Hbf."
+    },
+    "toHotelTransfer": {
+      "schedule": "10:30am a 11:15am",
+      "comments": "München Hbf → hotel o directo hacia la Residenz (maletas en hotel si es posible)."
+    }
+  },
+  {
+    "id": "act-20260613-1",
+    "placeId": "munich-residenz",
+    "schedule": "12pm a 2pm",
+    "comments": "Bloque B primero — interior ~2 h 15. Apertura 9:00; última entrada 17:00."
+  },
+  {
+    "type": "lunch",
+    "schedule": "2pm a 3pm"
+  },
+  {
+    "id": "act-20260613-3",
+    "placeId": "estado-de-la-cancilleria-bavaria-munich",
+    "schedule": "3pm a 3:30pm",
+    "comments": "Hofgarten y Cancillería."
+  },
+  {
+    "id": "act-20260613-4",
+    "placeId": "odeonsplatz-munich",
+    "schedule": "3:45pm a 4pm",
+    "comments": "Plaza y Feldherrnhalle."
+  },
+  {
+    "id": "act-20260613-5",
+    "placeId": "iglesia-de-los-teatinos-munich",
+    "schedule": "4pm a 4:30pm",
+    "comments": "Interior ~30 min."
+  },
+  {
+    "id": "act-20260613-11",
+    "placeId": "antiguo-ayuntamiento-munich",
+    "schedule": "4:40pm a 4:50pm",
+    "comments": "Exterior y patio; interior amplio tras las 18:00 si hace falta."
+  },
+  {
+    "id": "act-20260613-8",
+    "placeId": "marienplatz-munich",
+    "schedule": "4:50pm a 5pm",
+    "comments": "Bloque A — única actividad de plaza hoy."
+  },
+  {
+    "id": "act-20260613-10",
+    "placeId": "reloj-del-ayuntamiento-munich",
+    "schedule": "5pm a 5:10pm",
+    "comments": "Único Glockenspiel del viaje — show de las 17:00 (~12 min)."
+  },
+  {
+    "id": "act-20260613-9",
+    "placeId": "nuevo-ayuntamiento-munich",
+    "schedule": "5:10pm a 5:30pm",
+    "comments": "Patio/fachada rápido; estar en Marienplatz a las 17:00 para el Glockenspiel."
+  },
+  {
+    "id": "act-20260613-12",
+    "placeId": "iglesia-san-pedro-munich",
+    "schedule": "5:40pm a 6pm",
+    "comments": "Rápido; si no da tiempo, pendiente dom 14."
+  },
+  {
+    "id": "act-20260613-17",
+    "placeId": "catedral-de-munich",
+    "schedule": "6:10pm a 6:30pm",
+    "comments": "Post-18:00 — interior; cierra 20:00."
+  },
+  {
+    "id": "act-20260613-18",
+    "placeId": "iglesia-san-miguel-munich",
+    "schedule": "6:50pm a 7:10pm",
+    "comments": "Pendiente dom 14 si no da tiempo."
+  },
+  {
+    "id": "act-20260613-14",
+    "placeId": "karlsplatz-munich",
+    "schedule": "7:10pm a 7:30pm",
+    "comments": "Bloque C — Karlstor."
+  },
+  {
+    "id": "act-20260613-15",
+    "placeId": "palacio-de-la-justicia-munich",
+    "schedule": "7:30pm a 7:50pm",
+    "comments": "Exterior; interior pendiente dom 14."
+  },
+  {
+    "id": "act-20260614-5",
+    "placeId": "konigsplatz-munich",
+    "schedule": "7:50pm a 8:30pm",
+    "comments": "Plaza y fachadas neoclásicas. Post-18:00: volver de noche si queréis verla iluminada."
+  },
+  {
+    "id": "act-20260613-19",
+    "placeId": "hofbrauhaus-munich",
+    "schedule": "8:30pm a 10pm",
+    "comments": "Cena típica bávara."
+  }
+]

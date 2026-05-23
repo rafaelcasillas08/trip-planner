@@ -1,0 +1,105 @@
+[
+  {
+    "type": "breakfast",
+    "schedule": "7am",
+    "comments": "En Viena antes de ir a la estación."
+  },
+  {
+    "type": "transfer",
+    "fromCityId": "viena",
+    "toCityId": "bratislava",
+    "transportMode": "train",
+    "duration": "1h",
+    "stationTime": "7:45am",
+    "departureTime": "8:15am",
+    "arrivalTime": "9:20am",
+    "comments": "Estación central de Viena. Llegar con tiempo para abordar el tren. Al llegar, Uber/Bolt al castillo para empezar el recorrido desde la parte alta."
+  },
+  {
+    "id": "act-20260608-1",
+    "placeId": "castillo-bratislava",
+    "schedule": "9:45am a 10:45am",
+    "comments": "Mejor visitarlo temprano por las vistas y porque hay menos gente."
+  },
+  {
+    "id": "act-20260608-2",
+    "placeId": "parlamento-eslovaco-bratislava",
+    "schedule": "10:45am a 11am",
+    "comments": "Edificio importante ubicado junto al castillo."
+  },
+  {
+    "id": "act-20260608-3",
+    "placeId": "palacio-grassalkovich-bratislava",
+    "schedule": "11am a 11:30am",
+    "comments": "Bonito exterior y jardines."
+  },
+  {
+    "id": "act-20260608-5",
+    "placeId": "puerta-miguel-bratislava",
+    "schedule": "11:35am a 11:50am",
+    "comments": "Entrada histórica al centro viejo."
+  },
+  {
+    "id": "act-20260608-6",
+    "placeId": "casco-antiguo-bratislava",
+    "schedule": "11:50am a 12:10pm",
+    "comments": "La zona más agradable para caminar y tomar fotos, tras pasar por la Puerta de Miguel."
+  },
+  {
+    "id": "act-20260608-7",
+    "placeId": "palacio-primado-bratislava",
+    "schedule": "12:10pm a 12:25pm",
+    "comments": "En la plaza principal. Sala de los Espejos y fachada neoclásica."
+  },
+  {
+    "id": "act-20260608-8",
+    "placeId": "estatua-cumil-bratislava",
+    "schedule": "12:25pm a 12:40pm",
+    "comments": "La estatua más famosa y divertida de Bratislava."
+  },
+  {
+    "id": "act-20260608-9",
+    "placeId": "catedral-san-martin-bratislava",
+    "schedule": "12:40pm a 1:10pm",
+    "comments": "Lugar histórico donde coronaban reyes húngaros."
+  },
+  {
+    "id": "act-20260608-10",
+    "placeId": "iglesia-azul-bratislava",
+    "schedule": "1:10pm a 1:45pm",
+    "comments": "La iglesia más fotogénica de la ciudad."
+  },
+  {
+    "type": "lunch",
+    "schedule": "1:45pm a 3:15pm",
+    "comments": "Comida típica eslovaca. Buen momento para probar bryndzové halušky o cerveza local."
+  },
+  {
+    "id": "act-20260608-11",
+    "placeId": "paseo-danubio-bratislava",
+    "schedule": "3:15pm a 3:45pm",
+    "comments": "Zona agradable para caminar y descansar después de comer."
+  },
+  {
+    "id": "act-20260608-12",
+    "placeId": "mirador-ufo-bratislava",
+    "schedule": "3:45pm a 4:30pm",
+    "comments": "Visitar solo si todavía tienen tiempo y energía."
+  },
+  {
+    "type": "transfer",
+    "fromCityId": "bratislava",
+    "toCityId": "viena",
+    "transportMode": "train",
+    "duration": "1h",
+    "departureTime": "5pm",
+    "arrivalTime": "6pm",
+    "comments": "Ir con calma hacia la estación de tren. Regreso aproximado de 1 hora."
+  },
+  {
+    "type": "work",
+    "id": "work-20260608",
+    "schedule": "6pm a 12am",
+    "comments": "Llegada a Viena para trabajar."
+  }
+]

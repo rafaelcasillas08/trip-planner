@@ -1,0 +1,32 @@
+[
+  {
+    "id": "mykonos-places",
+    "cityId": "mykonos",
+    "name": "Recorrido del centro de la isla de Mykonos",
+    "location": "",
+    "photos": [],
+    "comments": "Recorrer a pie el centro de la isla de Mykonos",
+    "cost": "",
+    "transport": "",
+    "website": "",
+    "hours": "",
+    "timeNeeded": "4 hrs",
+    "lat": 37.4467,
+    "lng": 25.3289
+  },
+  {
+    "id": "champions-final",
+    "cityId": "mykonos",
+    "name": "Final de la Champions",
+    "location": "",
+    "photos": [],
+    "comments": "Ver la final de la Champions en Mykonos",
+    "cost": "",
+    "transport": "",
+    "website": "",
+    "hours": "",
+    "timeNeeded": "3 hrs",
+    "lat": 37.4467,
+    "lng": 25.3289
+  }
+]

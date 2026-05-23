@@ -1,0 +1,19 @@
+[
+  {
+    "type": "breakfast",
+    "schedule": "6:30am a 7am",
+    "comments": "Temprano; excursión sale ~8:00."
+  },
+  {
+    "id": "act-20260615-1",
+    "placeId": "neuschwanstein-munich",
+    "schedule": "8:30am a 7pm",
+    "comments": "Excursión día entero: Neuschwanstein + Linderhof (según operador). Reservar con antelación. Ajustar hora de regreso al tour contratado."
+  },
+  {
+    "type": "work",
+    "id": "work-20260615",
+    "schedule": "7pm a 11pm",
+    "comments": "En el hotel desde las 18:00. Sin visitas turísticas tras la excursión."
+  }
+]

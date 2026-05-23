@@ -1,0 +1,19 @@
+[
+  {
+    "type": "transfer",
+    "fromCityId": "nuremberg",
+    "toCityId": "dresde",
+    "transportMode": "train",
+    "duration": "1h 15min",
+    "stationTime": "9am",
+    "departureTime": "9:30am",
+    "arrivalTime": "11:30am",
+    "comments": ""
+  },
+  {
+    "type": "work",
+    "id": "work-20260619",
+    "schedule": "Todo el día",
+    "comments": "Trabajo remoto tras llegada a Dresde."
+  }
+]

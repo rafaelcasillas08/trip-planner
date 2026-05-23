@@ -1,0 +1,49 @@
+[
+  {
+    "type": "breakfast",
+    "schedule": "7am",
+    "comments": ""
+  },
+  {
+    "id": "act-20260603-1",
+    "placeId": "basilica-san-esteban",
+    "schedule": "8am a 9am",
+    "comments": "Abre a las 9:00 — exterior o breve interior según cola."
+  },
+  {
+    "id": "act-20260603-2",
+    "placeId": "palacio-de-la-bolsa",
+    "schedule": "11:15am a 11:45am",
+    "comments": "Bloque Parlamento — exterior; caminata desde la basílica hacia el Danubio / Kossuth tér."
+  },
+  {
+    "id": "act-20260603-3",
+    "placeId": "zapatos-en-el-danubio",
+    "schedule": "11:45am a 12:15pm",
+    "comments": "Memorial en la orilla; mismo bloque que Bolsa y Parlamento (~5 min entre sitios)."
+  },
+  {
+    "id": "act-20260603-4",
+    "placeId": "parlamento-hungria",
+    "schedule": "12:45pm a 3pm",
+    "comments": "Entrada reservada 13:00 — audio tour ~2 h. Llegar 12:45 para cola y seguridad."
+  },
+  {
+    "id": "act-20260603-5",
+    "placeId": "mercado-central-budapest",
+    "schedule": "3:15pm a 4:15pm",
+    "comments": "Buffer — páprika y comida típica si no se visitó antes."
+  },
+  {
+    "id": "act-20260603-6",
+    "placeId": "vaci-utca",
+    "schedule": "4:15pm a 5pm",
+    "comments": "Paseo por la calle peatonal de camino al hotel."
+  },
+  {
+    "type": "work",
+    "id": "work-20260603",
+    "schedule": "6pm a 12am",
+    "comments": "En el hotel desde las 6pm."
+  }
+]

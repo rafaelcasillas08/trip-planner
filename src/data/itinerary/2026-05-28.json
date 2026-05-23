@@ -1,0 +1,20 @@
+[
+  {
+    "type": "transfer",
+    "fromCityId": "atenas",
+    "toCityId": "santorini",
+    "transportMode": "plane",
+    "duration": "50min",
+    "stationTime": "4:00am",
+    "departureTime": "6:00am",
+    "arrivalTime": "6:50am",
+    "cost": "",
+    "comments": ""
+  },
+  {
+    "type": "work",
+    "id": "work-20260528",
+    "schedule": "Todo el día",
+    "comments": "Standup a las 7pm."
+  }
+]

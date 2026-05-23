@@ -1,0 +1,43 @@
+[
+  {
+    "type": "breakfast",
+    "schedule": "6:30am",
+    "comments": "Desayuno rápido en Budapest antes del check-out."
+  },
+  {
+    "type": "transfer",
+    "fromCityId": "budapest",
+    "toCityId": "viena",
+    "transportMode": "train",
+    "duration": "2h 40min",
+    "stationTime": "7:30am",
+    "departureTime": "8am",
+    "arrivalTime": "10:40am",
+    "comments": "Budapest Keleti → Wien Hauptbahnhof. Llevar equipaje; reservar asientos si es posible.",
+    "toStationTransfer": {
+      "schedule": "6:45am a 7:30am",
+      "comments": "Check-out y traslado a Keleti (taxi/Uber o transporte público)."
+    },
+    "toHotelTransfer": {
+      "schedule": "10:40am a 12pm",
+      "comments": "Llegada a Wien Hbf, traslado al hotel (dejar maletas / check-in)."
+    }
+  },
+  {
+    "type": "lunch",
+    "schedule": "12pm a 1pm",
+    "comments": "Cerca del hotel o de camino al cementerio."
+  },
+  {
+    "id": "act-20260604-1",
+    "placeId": "cementerio-viena",
+    "schedule": "1pm a 2:30pm",
+    "comments": "1 h — Beethoven, Strauss, Brahms, Schubert (Zentralfriedhof). ~25 min en U-Bahn/tranvía desde el centro. Si tengo mucho trabajo, dejar esta actividad para el martes en la mañana."
+  },
+  {
+    "type": "work",
+    "id": "work-20260604",
+    "schedule": "6pm a 12am",
+    "comments": "En el hotel desde las 6pm. Trabajo remoto."
+  }
+]

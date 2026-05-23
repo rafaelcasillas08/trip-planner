@@ -1,0 +1,319 @@
+[
+  {
+    "id": "hohensalzburg",
+    "cityId": "salzburgo",
+    "name": "Fortaleza de Hohensalzburg",
+    "location": "https://maps.app.goo.gl/99Q5za9ppuypujXL7",
+    "photos": [
+      "salzburgo/hohensalzburg-1.png"
+    ],
+    "comments": "La fortaleza de Hohensalzburg, que protegía a la ciudad de los ataques de tropas extranjeras gracias a sus muros y torres, es la más grande y mejor conservada de Europa",
+    "cost": "",
+    "transport": "",
+    "website": "",
+    "hours": "Todos los dias de 8:30am a 8pm",
+    "timeNeeded": "2 hrs",
+    "lat": 47.7949483,
+    "lng": 13.0476583
+  },
+  {
+    "id": "getreidegasse",
+    "cityId": "salzburgo",
+    "name": "Calle Getreidegasse",
+    "location": "https://maps.app.goo.gl/ouh6PWcnJkccs1y59",
+    "photos": [
+      "salzburgo/getreidegasse-1.png"
+    ],
+    "comments": "Es la calle más famosa de la ciudad",
+    "cost": "",
+    "transport": "",
+    "website": "",
+    "hours": "",
+    "timeNeeded": "30 min",
+    "lat": 47.8000322,
+    "lng": 13.0424271
+  },
+  {
+    "id": "catedral-salzburgo",
+    "cityId": "salzburgo",
+    "name": "Catedral de Salzburgo",
+    "location": "https://maps.app.goo.gl/Fbm1GEHfmypr4say7",
+    "photos": [
+      "salzburgo/catedral-salzburgo-1.png",
+      "salzburgo/catedral-salzburgo-2.png"
+    ],
+    "comments": "Situada en el centro histórico, fue el lugar en el que fue bautizado Mozart, que posteriormente se convirtió en el organista de la Catedral durante varios años. Algunos de sus lugares más interesantes son la cúpula, los frescos del Antiguo Testamento, el órgano, las siete campanas y el museo de la catedral.",
+    "cost": "",
+    "transport": "",
+    "website": "",
+    "hours": "Diario de 9am a 6pm",
+    "timeNeeded": "45 min",
+    "lat": 47.7978946,
+    "lng": 13.0466354
+  },
+  {
+    "id": "casa-natal-mozart",
+    "cityId": "salzburgo",
+    "name": "Casa Natal de Mozart",
+    "location": "https://maps.app.goo.gl/FqftPDuXmT5vAgXt7",
+    "photos": [
+      "salzburgo/casa-natal-mozart-1.png"
+    ],
+    "comments": "La casa donde nació Wolfgang Amadeus Mozart el 27 de enero de 1756. Conserva su violín de niño, clavicordios y retratos originales de la familia Mozart.",
+    "cost": "",
+    "transport": "",
+    "website": "",
+    "hours": "Diario de 9am a 5:30pm",
+    "timeNeeded": "1 hr",
+    "lat": 47.8000079,
+    "lng": 13.0435589
+  },
+  {
+    "id": "residencia-mozart",
+    "cityId": "salzburgo",
+    "name": "Residencia de Mozart (Mozart-Wohnhaus)",
+    "location": "https://maps.app.goo.gl/AtrV8odVKR1ijWzVA",
+    "photos": [
+      "salzburgo/residencia-mozart-1.png"
+    ],
+    "comments": "La casa donde la familia Mozart vivió de 1773 a 1787. Audioguía excelente que recrea la vida musical de Mozart en Salzburgo.",
+    "cost": "",
+    "transport": "",
+    "website": "",
+    "hours": "Diario de 9am a 5:30pm",
+    "timeNeeded": "1 hr",
+    "lat": 47.8026282,
+    "lng": 13.0438679
+  },
+  {
+    "id": "mozarteum",
+    "cityId": "salzburgo",
+    "name": "Mozarteum",
+    "location": "https://maps.app.goo.gl/VEZqXBYTvedr3hQb6",
+    "photos": [
+      "salzburgo/mozarteum-1.png",
+      "salzburgo/mozarteum-2.png"
+    ],
+    "comments": "Una de las instituciones musicales más prestigiosas de Austria. Vale mucho la pena asistir a un concierto.",
+    "cost": "",
+    "transport": "",
+    "website": "",
+    "hours": "",
+    "timeNeeded": "1 hr",
+    "lat": 47.8034441,
+    "lng": 13.0419215
+  },
+  {
+    "id": "palacio-mirabell",
+    "cityId": "salzburgo",
+    "name": "Palacio y jardines de Mirabell",
+    "location": "https://maps.app.goo.gl/ziJcuhLD8eiAjB8J9",
+    "photos": [
+      "salzburgo/palacio-mirabell-1.png",
+      "salzburgo/palacio-mirabell-2.png",
+      "salzburgo/palacio-mirabell-3.png"
+    ],
+    "comments": "El Palacio Mirabell, Patrimonio de la Humanidad, es uno de los edificios legendarios de Austria",
+    "cost": "",
+    "transport": "",
+    "website": "",
+    "hours": "Lunes a sábado de 8am a 6pm",
+    "timeNeeded": "2 hrs",
+    "lat": 47.8054432,
+    "lng": 13.0416942
+  },
+  {
+    "id": "kapitelplatz",
+    "cityId": "salzburgo",
+    "name": "Kapitelplatz (plaza principal)",
+    "location": "https://maps.app.goo.gl/HMQGGdLjH6f49PNv9",
+    "photos": [
+      "salzburgo/kapitelplatz-1.png",
+      "salzburgo/kapitelplatz-2.png"
+    ],
+    "comments": "La plaza principal de Salzburgo, con su catedral y el palacio Mirabell.",
+    "cost": "",
+    "transport": "",
+    "website": "",
+    "hours": "Siempre abierto",
+    "timeNeeded": "30 min",
+    "lat": 47.7970322,
+    "lng": 13.0463945
+  },
+  {
+    "id": "alter-markt",
+    "cityId": "salzburgo",
+    "name": "Alter Markt (plaza antigua)",
+    "location": "https://maps.app.goo.gl/oseoUY69A4Fhp2Dk6",
+    "photos": [
+      "salzburgo/alter-markt-1.png",
+      "salzburgo/alter-markt-2.png"
+    ],
+    "comments": "La plaza antigua de Salzburgo, con su mercado y sus edificios históricos.",
+    "cost": "",
+    "transport": "",
+    "website": "",
+    "hours": "Siempre abierto",
+    "timeNeeded": "30 min",
+    "lat": 47.7995743,
+    "lng": 13.0451118
+  },
+  {
+    "id": "residenzplatz",
+    "cityId": "salzburgo",
+    "name": "Residenzplatz",
+    "location": "https://maps.app.goo.gl/gTDq4SzGf9y4TTyC9",
+    "photos": [
+      "salzburgo/residenzplatz-1.png"
+    ],
+    "comments": "Residenzplatz es una de las plazas más populares del casco antiguo de Salzburgo en el que se encuentran dos palacios de obispos.",
+    "cost": "",
+    "transport": "",
+    "website": "",
+    "hours": "Siempre abierto",
+    "timeNeeded": "30 min",
+    "lat": 47.7982652,
+    "lng": 13.0459012
+  },
+  {
+    "id": "plaza-mozart",
+    "cityId": "salzburgo",
+    "name": "Plaza Mozart (Mozartplatz)",
+    "location": "https://maps.app.goo.gl/wdx3Bwm7aJouHeZV8",
+    "photos": [
+      "salzburgo/plaza-mozart-1.png"
+    ],
+    "comments": "Plaza con la estatua de Mozart, junto a Residenzplatz y la catedral. Punto clave del casco histórico.",
+    "cost": "",
+    "transport": "",
+    "website": "",
+    "hours": "Siempre abierto",
+    "timeNeeded": "15 min",
+    "lat": 47.7988913,
+    "lng": 13.0477761
+  },
+  {
+    "id": "palacio-hellbrunn",
+    "cityId": "salzburgo",
+    "name": "Palacio de Hellbrunn",
+    "location": "https://maps.app.goo.gl/mQ2MChdLTKcmnRsL6",
+    "photos": [
+      "salzburgo/palacio-hellbrunn-1.png",
+      "salzburgo/palacio-hellbrunn-2.png",
+      "salzburgo/palacio-hellbrunn-3.png"
+    ],
+    "comments": "Palacio de Hellbrunn es uno de los palacios más importantes de Salzburgo, y uno de los más bonitos.",
+    "cost": "",
+    "transport": "",
+    "website": "",
+    "hours": "Diario de 9:30am a 4:30pm",
+    "timeNeeded": "2 hrs",
+    "lat": 47.7621308,
+    "lng": 13.0601303
+  },
+  {
+    "id": "kapuzinerberg",
+    "cityId": "salzburgo",
+    "name": "Monte Kapuzinerberg",
+    "location": "https://maps.app.goo.gl/oou1b6aQKbX99quT8",
+    "photos": [
+      "salzburgo/kapuzinerberg-1.png"
+    ],
+    "comments": "La subida a la colina se debe realizar a pie y aunque es bastante empinada, las vistas que tendrás desde lo alto hacen que merezca la pena el esfuerzo. Recomendamos subir un tiempo antes del atardecer para disfrutar de las vistas de toda la ciudad de día y de noche.",
+    "cost": "",
+    "transport": "",
+    "website": "",
+    "hours": "Siempre abierto",
+    "timeNeeded": "1 hr",
+    "lat": 47.803805,
+    "lng": 13.0578905
+  },
+  {
+    "id": "residenzgalerie-salzburg",
+    "cityId": "salzburgo",
+    "name": "Residenzgalerie/DomQuartier (Museo de arte clásico y barroco)",
+    "location": "https://maps.app.goo.gl/Sdzio8JL5zLRD62s7",
+    "photos": [
+      "salzburgo/residenzgalerie-salzburg-1.png",
+      "salzburgo/residenzgalerie-salzburg-2.png"
+    ],
+    "comments": "Museo de arte clásico y barroco dentro del antiguo palacio de los príncipes-arzobispos.",
+    "cost": "",
+    "transport": "",
+    "website": "",
+    "hours": "Diario de 10am a 5pm",
+    "timeNeeded": "2 hrs",
+    "lat": 47.7984568,
+    "lng": 13.045674
+  },
+  {
+    "id": "museo-salzburgo",
+    "cityId": "salzburgo",
+    "name": "Museo de Salzburgo",
+    "location": "https://maps.app.goo.gl/huRPQoGh9hASfgDAA",
+    "photos": [
+      "salzburgo/museo-salzburgo-1.png",
+      "salzburgo/museo-salzburgo-2.png"
+    ],
+    "comments": "Buen museo para entender la historia de la ciudad, el principado e influencia cultural de Salzburgo.",
+    "cost": "",
+    "transport": "",
+    "website": "",
+    "hours": "",
+    "timeNeeded": "2 hrs",
+    "lat": 47.7986822,
+    "lng": 13.0477999
+  },
+  {
+    "id": "abadia-san-pedro",
+    "cityId": "salzburgo",
+    "name": "Abadía de San Pedro",
+    "location": "https://maps.app.goo.gl/YnQ9ymgurUdmHMk66",
+    "photos": [
+      "salzburgo/abadia-san-pedro-1.png",
+      "salzburgo/abadia-san-pedro-2.png"
+    ],
+    "comments": "La abadía de San Pedro es una de las más antiguas de Austria. Fue fundada en el siglo VIII y es uno de los principales centros religiosos de la ciudad.",
+    "cost": "",
+    "transport": "",
+    "website": "",
+    "hours": "Lunes a Viernes de 8am a 6:30pm",
+    "timeNeeded": "45 min",
+    "lat": 47.7975729,
+    "lng": 13.044445
+  },
+  {
+    "id": "hallstatt",
+    "cityId": "salzburgo",
+    "name": "Excursion a Hallstatt",
+    "location": "https://maps.app.goo.gl/ANYjjh2MV6uRPsRA9",
+    "photos": [
+      "salzburgo/hallstatt-1.png"
+    ],
+    "comments": "Hallstatt es uno de los pueblos más bonitos de Austria. Es un pueblo pintoresco con casas del siglo XVI asomadas al lago. Hay tours de un día y de medio día.",
+    "cost": "",
+    "transport": "",
+    "website": "",
+    "hours": "",
+    "timeNeeded": "1/2 día",
+    "lat": 47.5622342,
+    "lng": 13.6492617
+  },
+  {
+    "id": "concierto-mozart-mirabell",
+    "cityId": "salzburgo",
+    "name": "Concierto de Mozart en Mirabell",
+    "location": "https://maps.app.goo.gl/ziJcuhLD8eiAjB8J9",
+    "photos": [
+      "salzburgo/concierto-mozart-mirabell-1.png"
+    ],
+    "comments": "Reservación el viernes 12 de junio a las 20:00. Llegar ~19:30. Complemento de la visita al Palacio de Mirabell.",
+    "cost": "",
+    "transport": "",
+    "website": "",
+    "hours": "",
+    "timeNeeded": "1.5 hrs",
+    "lat": 47.8054432,
+    "lng": 13.0416942
+  }
+]

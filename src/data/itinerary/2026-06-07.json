@@ -1,0 +1,78 @@
+[
+  {
+    "type": "breakfast",
+    "schedule": "7am",
+    "comments": ""
+  },
+  {
+    "id": "act-20260607-1",
+    "placeId": "palacio-belvedere",
+    "schedule": "8am a 9:30am",
+    "comments": "Palacio Superior por dentro (bloque Belvedere 4 h)."
+  },
+  {
+    "id": "act-20260607-2",
+    "placeId": "lower-belvedere",
+    "schedule": "9:30am a 11:15am",
+    "comments": "Lower Belvedere por dentro + paseo por jardines del recinto entre palacios."
+  },
+  {
+    "id": "act-20260607-3",
+    "placeId": "iglesia-maria-heimsuchung",
+    "schedule": "11:15am a 12pm",
+    "comments": "Junto al complejo Belvedere."
+  },
+  {
+    "id": "act-20260607-4",
+    "placeId": "monumento-heroes-ejercito-rojo",
+    "schedule": "12pm a 12:15pm",
+    "comments": "Exterior rápido (opcional)."
+  },
+  {
+    "id": "act-20260607-5",
+    "placeId": "iglesia-san-carlos-borromeo",
+    "schedule": "12:15pm a 12:45pm",
+    "comments": "Interior — Karlsplatz."
+  },
+  {
+    "id": "act-20260607-6",
+    "placeId": "parque-de-la-ciudad",
+    "schedule": "12:45pm a 1:15pm",
+    "comments": "Stadtpark / Strauss — hacia el centro."
+  },
+  {
+    "type": "lunch",
+    "schedule": "1:15pm a 2:15pm",
+    "comments": "Traslado hacia zona Hofburg / centro."
+  },
+  {
+    "id": "act-20260607-7",
+    "placeId": "opera-viena",
+    "schedule": "2:15pm a 3:15pm",
+    "comments": "Tour por el interior de la Ópera (~1 h). Solo realizar si no se pudo visitar por dentro el día anterior (sábado)."
+  },
+  {
+    "id": "act-20260607-8",
+    "placeId": "museo-etnografico-viena",
+    "schedule": "3:15pm a 4:15pm",
+    "comments": "Interior — penacho de Moctezuma. Si se omite el tour de la Ópera, empezar a las 2:15pm."
+  },
+  {
+    "id": "act-20260607-9",
+    "placeId": "casa-beethoven",
+    "schedule": "4:15pm a 4:40pm",
+    "comments": ""
+  },
+  {
+    "id": "act-20260607-10",
+    "placeId": "museo-sigmund-freud",
+    "schedule": "4:40pm a 5:10pm",
+    "comments": ""
+  },
+  {
+    "id": "act-20260607-11",
+    "placeId": "imperial-gala-concert",
+    "schedule": "6:30pm a 9pm",
+    "comments": "Reservación domingo 7 de junio a las 19:00. Llegar ~18:30."
+  }
+]

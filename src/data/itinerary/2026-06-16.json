@@ -1,0 +1,48 @@
+[
+  {
+    "type": "breakfast",
+    "schedule": "7am",
+    "comments": "Temprano; salida hacia Dachau ~8:15."
+  },
+  {
+    "id": "act-20260616-1",
+    "placeId": "campo-de-concentracion-de-dachau-munich",
+    "schedule": "9am a 12pm",
+    "comments": "S-Bahn S2 a Dachau + bus 726 (~35 min). Memorial ~4 h; visita sobria. Cierra 17:00."
+  },
+  {
+    "id": "act-20260616-2",
+    "placeId": "allianz-arena",
+    "schedule": "1pm a 2:30pm",
+    "comments": "Tour del estadio y museo del FC Bayern; reservar horario."
+  },
+  {
+    "id": "act-20260616-4",
+    "placeId": "viktualienmarkt-munich",
+    "schedule": "3:30pm a 4:30pm",
+    "comments": "Comer algo por ahí."
+  },
+  {
+    "type": "lunch",
+    "schedule": "3:30pm a 4:30pm",
+    "comments": "Comer en el mercado."
+  },
+  {
+    "id": "act-20260616-5",
+    "placeId": "isartor-munich",
+    "schedule": "4:30pm a 5pm",
+    "comments": "Visitar la puerta de Isartor."
+  },
+  {
+    "id": "act-20260616-3",
+    "placeId": "deutsches-museum-munich",
+    "schedule": "5pm a 5:30pm",
+    "comments": "Visita exterior del museo."
+  },
+  {
+    "type": "work",
+    "id": "work-20260616",
+    "schedule": "6pm a 12am",
+    "comments": "En el hotel desde las 18:00. Omitir actividades colchón si el centro ya está completo."
+  }
+]

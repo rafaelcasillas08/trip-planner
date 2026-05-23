@@ -1,0 +1,82 @@
+[
+  {
+    "type": "transfer",
+    "fromCityId": "madrid",
+    "toCityId": "milan",
+    "transportMode": "plane",
+    "duration": "2h 15min",
+    "stationTime": "7:55am",
+    "departureTime": "9:55am",
+    "arrivalTime": "12:10pm",
+    "comments": "",
+    "toHotelTransfer": {
+      "schedule": "12:10pm a 2pm",
+      "comments": "Aeropuerto, check-in en el hotel y traslado al centro"
+    }
+  },
+  {
+    "id": "act-20260524-1",
+    "placeId": "duomo-milano",
+    "schedule": "2pm a 3:30pm",
+    "comments": ""
+  },
+  {
+    "type": "lunch",
+    "schedule": "3:30pm a 4:30pm",
+    "comments": "Comer en el centro de Milán"
+  },
+  {
+    "id": "act-20260524-palazzo",
+    "placeId": "palazzo-reale-milano",
+    "schedule": "4:30pm a 5pm",
+    "comments": "Visita rápida tras comer — patio / exposición según tiempo"
+  },
+  {
+    "id": "act-20260524-mercanti",
+    "placeId": "piazza-mercanti-milano",
+    "schedule": "5pm a 5:15pm",
+    "comments": ""
+  },
+  {
+    "id": "act-20260524-2",
+    "placeId": "galeria-vittorio-emanuele",
+    "schedule": "5:15pm a 5:45pm",
+    "comments": ""
+  },
+  {
+    "id": "act-20260524-3",
+    "placeId": "teatro-scala",
+    "schedule": "5:45pm a 6pm",
+    "comments": ""
+  },
+  {
+    "id": "act-20260524-4",
+    "placeId": "castillo-sforzesco",
+    "schedule": "6:15pm a 6:45pm",
+    "comments": ""
+  },
+  {
+    "id": "act-20260524-acquario",
+    "placeId": "acquario-civico-milano",
+    "schedule": "6:45pm a 7pm",
+    "comments": "Solo exterior"
+  },
+  {
+    "id": "act-20260524-ponte-sirenette",
+    "placeId": "ponte-sirenette-milano",
+    "schedule": "7pm a 7:15pm",
+    "comments": "Solo exterior — puente sobre el laghetto"
+  },
+  {
+    "id": "act-20260524-5",
+    "placeId": "parque-sempione",
+    "schedule": "7:15pm a 7:45pm",
+    "comments": ""
+  },
+  {
+    "id": "act-20260524-6",
+    "placeId": "arco-della-pace",
+    "schedule": "7:45pm a 8pm",
+    "comments": ""
+  }
+]

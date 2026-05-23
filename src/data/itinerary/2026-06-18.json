@@ -1,0 +1,119 @@
+[
+  {
+    "type": "breakfast",
+    "schedule": "7am a 7:45am",
+    "comments": "Temprano; salida hacia Hauptmarkt a las 8:00."
+  },
+  {
+    "id": "act-20260618-1",
+    "placeId": "hauptmarkt-nuremberg",
+    "schedule": "8am a 8:10am",
+    "comments": "Plaza principal; siempre abierto. Arranque del día en Altstadt."
+  },
+  {
+    "id": "act-20260618-2",
+    "placeId": "fuente-schoner-brunnen-nuremberg",
+    "schedule": "8:10am a 8:20am",
+    "comments": "Fuente Schöner Brunnen en la plaza; exterior."
+  },
+  {
+    "id": "act-20260618-3",
+    "placeId": "altes-rathaus",
+    "schedule": "8:20am a 8:25am",
+    "comments": "Antiguo ayuntamiento; fachada y entorno."
+  },
+  {
+    "id": "act-20260618-4",
+    "placeId": "castillo-de-nuremberg",
+    "schedule": "9am a 11am",
+    "comments": "Kaiserburg; caminata desde Hauptmarkt ~8:25–8:55. Abre 9:00; cierra 18:00."
+  },
+  {
+    "id": "act-20260618-5",
+    "placeId": "frauenkirche-nuremberg",
+    "schedule": "11:05am a 11:35am",
+    "comments": "Bajada desde el castillo; interior ~30 min."
+  },
+  {
+    "id": "act-20260618-6",
+    "placeId": "mazmorras-medievales-nuremberg",
+    "schedule": "11:35am a 12:15pm",
+    "comments": "Mittelalterliche Lochgefängnisse bajo el ayuntamiento; comprar ticket."
+  },
+  {
+    "id": "act-20260618-7",
+    "placeId": "iglesia-san-sebaldo-nuremberg",
+    "schedule": "12:15pm a 1pm",
+    "comments": "Sebalduskirche; abre 9:30; cierra 18:00."
+  },
+  {
+    "type": "lunch",
+    "schedule": "1pm a 2pm",
+    "comments": "Hauptmarkt, Königstraße o Breite Gasse; Bratwurst y cafés del casco."
+  },
+  {
+    "id": "act-20260618-8",
+    "placeId": "weissgerbergasse-nuremberg",
+    "schedule": "2pm a 2:30pm",
+    "comments": "Calle de entramado de madera; hacia el sur del casco."
+  },
+  {
+    "id": "act-20260618-9",
+    "placeId": "iglesia-santa-isabel-nuremberg",
+    "schedule": "2:35pm a 3:05pm",
+    "comments": "Antes de Lorenz; cierra 16:30."
+  },
+  {
+    "id": "act-20260618-10",
+    "placeId": "iglesia-san-jacobo-nuremberg",
+    "schedule": "3:05pm a 3:35pm",
+    "comments": "Misma zona oeste; cierra 18:00."
+  },
+  {
+    "id": "act-20260618-11",
+    "placeId": "iglesia-san-lorenzo-nuremberg",
+    "schedule": "3:40pm a 4:25pm",
+    "comments": "Lorenzkirche; abre 9:00; cierra 17:30."
+  },
+  {
+    "id": "act-20260618-12",
+    "placeId": "museumbruecke-nuremberg",
+    "schedule": "4:30pm a 4:40pm",
+    "comments": "Puente del Pegnitz; de paso hacia la estación."
+  },
+  {
+    "id": "act-20260618-13",
+    "placeId": "puente-del-verdugo-nuremberg",
+    "schedule": "4:40pm a 4:50pm",
+    "comments": "Henkersteg; secuencia peatonal con los otros puentes."
+  },
+  {
+    "id": "act-20260618-14",
+    "placeId": "puente-de-las-cadenas-nuremberg",
+    "schedule": "4:50pm a 4:55pm",
+    "comments": "Kettensteg; mirador rápido."
+  },
+  {
+    "id": "act-20260618-15",
+    "placeId": "handwerkerhof-nuremberg",
+    "schedule": "4:55pm a 5:30pm",
+    "comments": "Patio de artesanos junto a la estación; siempre abierto."
+  },
+  {
+    "id": "act-20260618-16",
+    "placeId": "opera-de-nuremberg-nuremberg",
+    "schedule": "5:30pm a 5:50pm",
+    "comments": "Solo exterior. Regreso al hotel ~17:50."
+  },
+  {
+    "type": "work",
+    "id": "work-20260618",
+    "schedule": "6pm a 12am",
+    "comments": "En el hotel desde las 18:00."
+  },
+  {
+    "type": "dinner",
+    "schedule": "8pm a 9pm",
+    "comments": "Pausa del trabajo remoto; hotel o delivery."
+  }
+]

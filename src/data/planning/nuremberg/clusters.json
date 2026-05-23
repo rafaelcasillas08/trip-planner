@@ -1,0 +1,368 @@
+{
+  "cityId": "nuremberg",
+  "placeCount": 22,
+  "visitablePlaceCount": 16,
+  "optionalVisitablePlaceCount": 2,
+  "tripWindowDays": 1.5,
+  "clusters": [
+    {
+      "id": "burgberg-castillo-imperial",
+      "name": "Burgberg: Castillo Imperial",
+      "description": "Kaiserburg y murallas en la colina norte del casco antiguo. Conviene abrir el día (apertura 9:00). Sin Casa de Durero.",
+      "placeIds": ["castillo-de-nuremberg"],
+      "estimatedMinutes": 135,
+      "walkingBufferMinutes": 15,
+      "priority": "imperdible",
+      "bestSchedule": "mañana",
+      "anchorPlaceId": "castillo-de-nuremberg",
+      "requiresTransit": false,
+      "day": 1,
+      "order": 1
+    },
+    {
+      "id": "altstadt-hauptmarkt-sebald-rathaus",
+      "name": "Altstadt: Hauptmarkt, Sebald y Ayuntamiento",
+      "description": "Núcleo medieval de la plaza principal: Frauenkirche, Schöner Brunnen, ayuntamiento antiguo, mazmorras (ticket) y Sebalduskirche. Descenso natural desde el castillo.",
+      "placeIds": [
+        "hauptmarkt-nuremberg",
+        "frauenkirche-nuremberg",
+        "fuente-schoner-brunnen-nuremberg",
+        "altes-rathaus",
+        "mazmorras-medievales-nuremberg",
+        "iglesia-san-sebaldo-nuremberg"
+      ],
+      "estimatedMinutes": 170,
+      "walkingBufferMinutes": 30,
+      "priority": "imperdible",
+      "bestSchedule": "mañana",
+      "anchorPlaceId": "hauptmarkt-nuremberg",
+      "requiresTransit": false,
+      "day": 1,
+      "order": 2
+    },
+    {
+      "id": "pegnitz-puentes-y-weissgerbergasse",
+      "name": "Pegnitz: Puentes y Weißgerbergasse",
+      "description": "Eje fotográfico del río Pegnitz: Museumbrücke, puente del verdugo, Kettensteg y la calle de entramado de madera Weißgerbergasse.",
+      "placeIds": [
+        "museumbruecke-nuremberg",
+        "puente-del-verdugo-nuremberg",
+        "puente-de-las-cadenas-nuremberg",
+        "weissgerbergasse-nuremberg"
+      ],
+      "estimatedMinutes": 80,
+      "walkingBufferMinutes": 25,
+      "priority": "imperdible",
+      "bestSchedule": "tarde",
+      "anchorPlaceId": "museumbruecke-nuremberg",
+      "requiresTransit": false,
+      "day": 1,
+      "order": 3
+    },
+    {
+      "id": "lorenz-e-iglesias-oeste",
+      "name": "Lorenzkirche e iglesias del oeste",
+      "description": "Lorenzkirche como eje gótico del sur del casco; Santa Isabel y San Jacobo en la misma caminata hacia el oeste.",
+      "placeIds": [
+        "iglesia-san-lorenzo-nuremberg",
+        "iglesia-santa-isabel-nuremberg",
+        "iglesia-san-jacobo-nuremberg"
+      ],
+      "estimatedMinutes": 125,
+      "walkingBufferMinutes": 20,
+      "priority": "imperdible",
+      "bestSchedule": "tarde",
+      "anchorPlaceId": "iglesia-san-lorenzo-nuremberg",
+      "requiresTransit": false,
+      "day": 1,
+      "order": 4
+    },
+    {
+      "id": "zona-estacion-handwerkerhof-opera",
+      "name": "Zona estación: Handwerkerhof y Ópera",
+      "description": "Patio de artesanos junto a la estación (llegada o cierre del día) y fachada de la Ópera. Museo de trenes (prioridad media) preferible en mañana del día 2 si no cupo en día 1.",
+      "placeIds": [
+        "handwerkerhof-nuremberg",
+        "opera-de-nuremberg-nuremberg",
+        "museo-de-los-trenes-nuremberg"
+      ],
+      "estimatedMinutes": 70,
+      "walkingBufferMinutes": 15,
+      "priority": "imperdible",
+      "bestSchedule": "tarde",
+      "anchorPlaceId": "handwerkerhof-nuremberg",
+      "requiresTransit": false,
+      "day": 1,
+      "order": 5,
+      "notes": "Día 1: handwerkerhof (35 min) + ópera (20 min). museo-de-los-trenes (+60 min) planificar en día 2 si aplica."
+    },
+    {
+      "id": "periferia-faber-castell",
+      "name": "Periferia: Faber-Castell Castle (Stein)",
+      "description": "Castillo Faber-Castell en Stein (~7 km). Solo si hay hueco antes de las 12:00 del día 2 y no se visitó el museo de trenes.",
+      "placeIds": ["faber-castell-castle-nuremberg"],
+      "estimatedMinutes": 130,
+      "walkingBufferMinutes": 40,
+      "priority": "media",
+      "bestSchedule": "mañana",
+      "anchorPlaceId": "faber-castell-castle-nuremberg",
+      "requiresTransit": true,
+      "day": 2,
+      "order": 1,
+      "conditional": true
+    }
+  ],
+  "places": {
+    "castillo-de-nuremberg": {
+      "priority": "imperdible",
+      "visit": true,
+      "planningMinutes": 120,
+      "bestTimeOfDay": "temprano",
+      "crowdSensitivity": "media",
+      "clusterId": "burgberg-castillo-imperial"
+    },
+    "handwerkerhof-nuremberg": {
+      "priority": "imperdible",
+      "visit": true,
+      "planningMinutes": 35,
+      "bestTimeOfDay": "tarde",
+      "crowdSensitivity": "media",
+      "clusterId": "zona-estacion-handwerkerhof-opera"
+    },
+    "hauptmarkt-nuremberg": {
+      "priority": "imperdible",
+      "visit": true,
+      "planningMinutes": 10,
+      "bestTimeOfDay": "mañana",
+      "crowdSensitivity": "alta",
+      "clusterId": "altstadt-hauptmarkt-sebald-rathaus"
+    },
+    "frauenkirche-nuremberg": {
+      "priority": "imperdible",
+      "visit": true,
+      "planningMinutes": 30,
+      "bestTimeOfDay": "mañana",
+      "crowdSensitivity": "media",
+      "clusterId": "altstadt-hauptmarkt-sebald-rathaus"
+    },
+    "fuente-schoner-brunnen-nuremberg": {
+      "priority": "imperdible",
+      "visit": true,
+      "planningMinutes": 10,
+      "bestTimeOfDay": "mañana",
+      "crowdSensitivity": "alta",
+      "clusterId": "altstadt-hauptmarkt-sebald-rathaus"
+    },
+    "altes-rathaus": {
+      "priority": "imperdible",
+      "visit": true,
+      "planningMinutes": 5,
+      "bestTimeOfDay": "mañana",
+      "crowdSensitivity": "baja",
+      "clusterId": "altstadt-hauptmarkt-sebald-rathaus"
+    },
+    "mazmorras-medievales-nuremberg": {
+      "priority": "importante",
+      "visit": true,
+      "planningMinutes": 40,
+      "bestTimeOfDay": "mañana",
+      "crowdSensitivity": "media",
+      "clusterId": "altstadt-hauptmarkt-sebald-rathaus"
+    },
+    "museumbruecke-nuremberg": {
+      "priority": "importante",
+      "visit": true,
+      "planningMinutes": 10,
+      "bestTimeOfDay": "tarde",
+      "crowdSensitivity": "media",
+      "clusterId": "pegnitz-puentes-y-weissgerbergasse"
+    },
+    "puente-del-verdugo-nuremberg": {
+      "priority": "importante",
+      "visit": true,
+      "planningMinutes": 10,
+      "bestTimeOfDay": "tarde",
+      "crowdSensitivity": "baja",
+      "clusterId": "pegnitz-puentes-y-weissgerbergasse"
+    },
+    "puente-de-las-cadenas-nuremberg": {
+      "priority": "importante",
+      "visit": true,
+      "planningMinutes": 5,
+      "bestTimeOfDay": "tarde",
+      "crowdSensitivity": "baja",
+      "clusterId": "pegnitz-puentes-y-weissgerbergasse"
+    },
+    "weissgerbergasse-nuremberg": {
+      "priority": "imperdible",
+      "visit": true,
+      "planningMinutes": 30,
+      "bestTimeOfDay": "tarde",
+      "crowdSensitivity": "media",
+      "clusterId": "pegnitz-puentes-y-weissgerbergasse"
+    },
+    "iglesia-san-lorenzo-nuremberg": {
+      "priority": "imperdible",
+      "visit": true,
+      "planningMinutes": 45,
+      "bestTimeOfDay": "mañana",
+      "crowdSensitivity": "media",
+      "clusterId": "lorenz-e-iglesias-oeste"
+    },
+    "iglesia-san-sebaldo-nuremberg": {
+      "priority": "imperdible",
+      "visit": true,
+      "planningMinutes": 45,
+      "bestTimeOfDay": "mañana",
+      "crowdSensitivity": "media",
+      "clusterId": "altstadt-hauptmarkt-sebald-rathaus"
+    },
+    "casa-de-alberto-durero-nuremberg": {
+      "priority": "baja",
+      "visit": false,
+      "bestTimeOfDay": "mañana",
+      "crowdSensitivity": "media",
+      "clusterId": null,
+      "excludedReason": "Prioridad baja; no se visitará"
+    },
+    "museo-del-juguete-nuremberg": {
+      "priority": "baja",
+      "visit": false,
+      "bestTimeOfDay": "tarde",
+      "crowdSensitivity": "media",
+      "clusterId": null,
+      "excludedReason": "Prioridad baja; no se visitará"
+    },
+    "museo-de-los-trenes-nuremberg": {
+      "priority": "media",
+      "visit": true,
+      "optional": true,
+      "planningMinutes": 60,
+      "bestTimeOfDay": "mañana",
+      "crowdSensitivity": "baja",
+      "clusterId": "zona-estacion-handwerkerhof-opera",
+      "preferredDay": 2
+    },
+    "faber-castell-castle-nuremberg": {
+      "priority": "media",
+      "visit": true,
+      "optional": true,
+      "planningMinutes": 90,
+      "bestTimeOfDay": "mañana",
+      "crowdSensitivity": "baja",
+      "clusterId": "periferia-faber-castell",
+      "preferredDay": 2
+    },
+    "opera-de-nuremberg-nuremberg": {
+      "priority": "imperdible",
+      "visit": true,
+      "planningMinutes": 20,
+      "bestTimeOfDay": "tarde",
+      "crowdSensitivity": "baja",
+      "clusterId": "zona-estacion-handwerkerhof-opera",
+      "notes": "Solo exterior"
+    },
+    "iglesia-santa-isabel-nuremberg": {
+      "priority": "importante",
+      "visit": true,
+      "planningMinutes": 30,
+      "bestTimeOfDay": "mañana",
+      "crowdSensitivity": "baja",
+      "clusterId": "lorenz-e-iglesias-oeste"
+    },
+    "iglesia-san-jacobo-nuremberg": {
+      "priority": "importante",
+      "visit": true,
+      "planningMinutes": 30,
+      "bestTimeOfDay": "mañana",
+      "crowdSensitivity": "baja",
+      "clusterId": "lorenz-e-iglesias-oeste"
+    },
+    "centro-documentacion-nazismo": {
+      "priority": "baja",
+      "visit": false,
+      "bestTimeOfDay": "mañana",
+      "crowdSensitivity": "media",
+      "clusterId": null,
+      "excludedReason": "Prioridad baja; no se visitará"
+    },
+    "juicio-nuremberg": {
+      "priority": "baja",
+      "visit": false,
+      "bestTimeOfDay": "tarde",
+      "crowdSensitivity": "baja",
+      "clusterId": null,
+      "excludedReason": "Prioridad baja; no se visitará"
+    }
+  },
+  "summary": {
+    "idealDays": 1.5,
+    "compactDays": 1,
+    "minimumDays": 1,
+    "tripWindowDescription": "1 día completo + mañana siguiente hasta 12:00",
+    "idealDescription": "Día 1: recorrido peatonal del casco (clusters 1→5). Día 2 hasta mediodía: museo de trenes o Faber-Castell (uno, no ambos).",
+    "compactDescription": "Un día largo con castillo, Hauptmarkt/Sebald, Pegnitz, Lorenz, Handwerkerhof y Ópera; extras media en mañana día 2 si hay tiempo.",
+    "minimumDescription": "Castillo + Hauptmarkt/Sebald + un eje (Pegnitz o Lorenz) + Handwerkerhof/Ópera; omitir mazmorras, iglesias oeste o puentes si aprieta el ritmo.",
+    "day1ClusterIds": [
+      "burgberg-castillo-imperial",
+      "altstadt-hauptmarkt-sebald-rathaus",
+      "pegnitz-puentes-y-weissgerbergasse",
+      "lorenz-e-iglesias-oeste",
+      "zona-estacion-handwerkerhof-opera"
+    ],
+    "day2OptionalClusterIds": [
+      "zona-estacion-handwerkerhof-opera",
+      "periferia-faber-castell"
+    ],
+    "optionalVisitablePlaceIds": [
+      "museo-de-los-trenes-nuremberg",
+      "faber-castell-castle-nuremberg"
+    ],
+    "day2PickOne": [
+      "museo-de-los-trenes-nuremberg",
+      "faber-castell-castle-nuremberg"
+    ],
+    "excludedPlaceIds": [
+      "casa-de-alberto-durero-nuremberg",
+      "museo-del-juguete-nuremberg",
+      "centro-documentacion-nazismo",
+      "juicio-nuremberg"
+    ],
+    "anchorPlaceIds": [
+      "castillo-de-nuremberg",
+      "hauptmarkt-nuremberg",
+      "iglesia-san-lorenzo-nuremberg",
+      "weissgerbergasse-nuremberg",
+      "handwerkerhof-nuremberg",
+      "opera-de-nuremberg-nuremberg"
+    ],
+    "cutIfLimited": [
+      "mazmorras-medievales-nuremberg",
+      "iglesia-santa-isabel-nuremberg",
+      "iglesia-san-jacobo-nuremberg",
+      "puente-de-las-cadenas-nuremberg",
+      "museo-de-los-trenes-nuremberg",
+      "faber-castell-castle-nuremberg"
+    ],
+    "day1EstimatedMinutes": 580,
+    "day1WithWalkingBufferMinutes": 695,
+    "recommendedWalkingOrder": [
+      "castillo-de-nuremberg",
+      "hauptmarkt-nuremberg",
+      "frauenkirche-nuremberg",
+      "fuente-schoner-brunnen-nuremberg",
+      "altes-rathaus",
+      "mazmorras-medievales-nuremberg",
+      "iglesia-san-sebaldo-nuremberg",
+      "museumbruecke-nuremberg",
+      "puente-del-verdugo-nuremberg",
+      "puente-de-las-cadenas-nuremberg",
+      "weissgerbergasse-nuremberg",
+      "iglesia-san-lorenzo-nuremberg",
+      "iglesia-santa-isabel-nuremberg",
+      "iglesia-san-jacobo-nuremberg",
+      "handwerkerhof-nuremberg",
+      "opera-de-nuremberg-nuremberg"
+    ]
+  }
+}

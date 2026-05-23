@@ -1,0 +1,50 @@
+[
+  {
+    "type": "transfer",
+    "fromCityId": "milan",
+    "toCityId": "atenas",
+    "transportMode": "plane",
+    "duration": "2h 30min",
+    "stationTime": "6:30am",
+    "departureTime": "8:40am",
+    "arrivalTime": "12:10pm",
+    "comments": "",
+    "toHotelTransfer": {
+      "schedule": "12:30pm a 1:30pm"
+    }
+  },
+  {
+    "type": "lunch",
+    "schedule": "2pm a 3pm"
+  },
+  {
+    "id": "act-20260525-1",
+    "placeId": "panathenaic-stadium",
+    "schedule": "3:30pm a 4:30pm",
+    "comments": ""
+  },
+  {
+    "id": "act-20260525-2",
+    "placeId": "palacio-zappeion",
+    "schedule": "4:30pm a 4:45pm",
+    "comments": ""
+  },
+  {
+    "id": "act-20260525-3",
+    "placeId": "templo-zeus",
+    "schedule": "4:45pm a 5:30pm",
+    "comments": ""
+  },
+  {
+    "id": "act-20260525-4",
+    "placeId": "agora-antigua",
+    "schedule": "6pm a 7:30pm",
+    "comments": ""
+  },
+  {
+    "id": "act-20260525-5",
+    "placeId": "areopago",
+    "schedule": "7:30pm a 9:30pm",
+    "comments": "Atardecer en Atenas es entre 8:30pm y 8:45pm. Se llena bastante, recomendable llegar entre 7pm y 7:30pm"
+  }
+]

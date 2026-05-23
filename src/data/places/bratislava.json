@@ -1,0 +1,197 @@
+[
+  {
+    "id": "castillo-bratislava",
+    "cityId": "bratislava",
+    "name": "Castillo de Bratislava",
+    "location": "https://maps.app.goo.gl/yFehFNi5qvPRCgvP7",
+    "photos": [
+      "bratislava/castillo-bratislava-1.png",
+      "bratislava/castillo-bratislava-2.png",
+      "bratislava/castillo-bratislava-3.png",
+      "bratislava/castillo-bratislava-4.png"
+    ],
+    "comments": "Domina la ciudad desde una colina sobre el Danubio. Excelentes vistas sobre el río y hacia Viena. El museo interior documenta la historia de Eslovaquia.",
+    "cost": "€10",
+    "transport": "A pie desde el casco antiguo (15min subida) o autobús 203",
+    "website": "https://www.bratislava-hrad.sk",
+    "hours": "Recinto: todos los días 08:00-22:00. Museo: todos los días excepto mar 10:00-18:00",
+    "timeNeeded": "2 hrs",
+    "lat": 48.1421086,
+    "lng": 17.1002348
+  },
+  {
+    "id": "parlamento-eslovaco-bratislava",
+    "cityId": "bratislava",
+    "name": "Consejo Nacional de la República Eslovaca",
+    "location": "https://maps.app.goo.gl/XgnsyaWpuKmeGpjB8",
+    "photos": [
+      "bratislava/parlamento-eslovaco-bratislava-1.png"
+    ],
+    "comments": "Edificio importante ubicado junto al castillo. Sede del parlamento eslovaco.",
+    "cost": "Gratis (exterior)",
+    "transport": "A pie desde el castillo",
+    "website": "https://www.nrsr.sk",
+    "hours": "Exterior siempre visible",
+    "timeNeeded": "15 min",
+    "lat": 48.1458155,
+    "lng": 17.106074
+  },
+  {
+    "id": "palacio-grassalkovich-bratislava",
+    "cityId": "bratislava",
+    "name": "Palacio Grassalkovich",
+    "location": "https://maps.app.goo.gl/3x8NHNr7GxboiGMU9",
+    "photos": [
+      "bratislava/palacio-grassalkovich-bratislava-1.png",
+      "bratislava/palacio-grassalkovich-bratislava-2.png"
+    ],
+    "comments": "Residencia oficial del presidente de Eslovaquia. Bonito exterior y jardines.",
+    "cost": "Gratis (exterior)",
+    "transport": "A pie desde el castillo (5min)",
+    "website": "",
+    "hours": "Jardines: horario diurno",
+    "timeNeeded": "15 min",
+    "lat": 48.1493344,
+    "lng": 17.1076899
+  },
+  {
+    "id": "puerta-miguel-bratislava",
+    "cityId": "bratislava",
+    "name": "Puerta de Miguel",
+    "location": "https://maps.app.goo.gl/g8a1YQEoron5zZ9x8",
+    "photos": [
+      "bratislava/puerta-miguel-1.png"
+    ],
+    "comments": "Entrada histórica al centro viejo. La única puerta medieval que queda en pie en Bratislava.",
+    "cost": "€5",
+    "transport": "A pie desde el palacio Grassalkovich (10min)",
+    "website": "https://www.muzeum.bratislava.sk",
+    "hours": "Mar-Dom 10:00-17:00",
+    "timeNeeded": "45 min",
+    "lat": 48.1451796,
+    "lng": 17.1067314
+  },
+  {
+    "id": "casco-antiguo-bratislava",
+    "cityId": "bratislava",
+    "name": "Casco Antiguo y Plaza Principal",
+    "location": "https://maps.app.goo.gl/diWGhPgWLzuNawKR9",
+    "photos": [
+      "bratislava/casco-antiguo-1.png",
+      "bratislava/casco-antiguo-2.png"
+    ],
+    "comments": "El centro histórico es pequeño y muy caminable. La zona más agradable para caminar y tomar fotos, justo después de pasar por la Puerta de Miguel.",
+    "cost": "Gratis",
+    "transport": "A pie tras la Puerta de Miguel",
+    "website": "",
+    "hours": "Siempre abierto",
+    "timeNeeded": "2 hrs",
+    "lat": 48.143791,
+    "lng": 17.1086765
+  },
+  {
+    "id": "palacio-primado-bratislava",
+    "cityId": "bratislava",
+    "name": "Palacio del Primado",
+    "location": "https://maps.app.goo.gl/3cCUFASdzkYtG3rK8",
+    "photos": [
+      "bratislava/palacio-primado-1.png"
+    ],
+    "comments": "Palacio neoclásico en la plaza principal. Famoso por la Sala de los Espejos y el tratado de paz de Pressburg (1805).",
+    "cost": "€10",
+    "transport": "A pie en la plaza principal, tras el casco antiguo",
+    "website": "https://www.muzeum.bratislava.sk",
+    "hours": "Mar-Dom 10:00-17:00",
+    "timeNeeded": "30 min",
+    "lat": 48.1439306,
+    "lng": 17.1097025
+  },
+  {
+    "id": "estatua-cumil-bratislava",
+    "cityId": "bratislava",
+    "name": "Estatua de Čumil",
+    "location": "https://maps.app.goo.gl/UCe58fsBDbUSnQ5y8",
+    "photos": [
+      "bratislava/estatua-cumil-1.png"
+    ],
+    "comments": "La estatua más famosa y divertida de Bratislava. Hombre asomándose por una alcantarilla.",
+    "cost": "Gratis",
+    "transport": "A pie en el casco antiguo",
+    "website": "",
+    "hours": "Siempre visible",
+    "timeNeeded": "10 min",
+    "lat": 48.1428725,
+    "lng": 17.1089384
+  },
+  {
+    "id": "catedral-san-martin-bratislava",
+    "cityId": "bratislava",
+    "name": "Catedral de San Martín",
+    "location": "https://maps.app.goo.gl/zQGm2V8vUori2ZXd9",
+    "photos": [
+      "bratislava/catedral-san-martin-1.png",
+      "bratislava/catedral-san-martin-2.png",
+      "bratislava/catedral-san-martin-3.png"
+    ],
+    "comments": "Lugar histórico donde coronaban reyes húngaros. Catedral gótica del Imperio Habsburgo.",
+    "cost": "Gratis",
+    "transport": "A pie desde el casco antiguo (5min)",
+    "website": "https://dom.fara.sk",
+    "hours": "Lun-Sáb 09:00-11:30 y 13:00-18:00",
+    "timeNeeded": "45 min",
+    "lat": 48.1420007,
+    "lng": 17.1050149
+  },
+  {
+    "id": "iglesia-azul-bratislava",
+    "cityId": "bratislava",
+    "name": "Iglesia Azul (St. Elizabeth)",
+    "location": "https://maps.app.goo.gl/GJPPQCJ1f9RgArAD6",
+    "photos": [
+      "bratislava/iglesia-azul-1.png",
+      "bratislava/iglesia-azul-2.png"
+    ],
+    "comments": "La iglesia más fotogénica de la ciudad. Arquitectura art nouveau en azul claro.",
+    "cost": "Gratis",
+    "transport": "A pie desde el casco antiguo (10min)",
+    "website": "",
+    "hours": "Mar-Sáb 07:00-19:30",
+    "timeNeeded": "30 min",
+    "lat": 48.1433427,
+    "lng": 17.116713
+  },
+  {
+    "id": "paseo-danubio-bratislava",
+    "cityId": "bratislava",
+    "name": "Paseo por el Danubio",
+    "location": "https://maps.google.com/?q=Danube+Promenade+Bratislava",
+    "photos": [
+      "bratislava/paseo-danubio-1.png"
+    ],
+    "comments": "Zona agradable para caminar y descansar después de comer. Vistas al río y al puente SNP.",
+    "cost": "Gratis",
+    "transport": "A pie desde el centro (10min)",
+    "website": "",
+    "hours": "Siempre abierto",
+    "timeNeeded": "30 min",
+    "lat": 48.138,
+    "lng": 17.108
+  },
+  {
+    "id": "mirador-ufo-bratislava",
+    "cityId": "bratislava",
+    "name": "Mirador UFO (Most SNP)",
+    "location": "https://maps.app.goo.gl/SSc7GZZfX1VEyb1p6",
+    "photos": [
+      "bratislava/mirador-ufo-bratislava-1.png"
+    ],
+    "comments": "Mirador opcional en la parte superior del puente SNP. Visitar solo si todavía tienen tiempo y energía.",
+    "cost": "€9.90",
+    "transport": "A pie desde el paseo del Danubio",
+    "website": "https://www.vydavatelstvo.com",
+    "hours": "Todos los días 10:00-23:00",
+    "timeNeeded": "45 min",
+    "lat": 48.1367327,
+    "lng": 17.1045998
+  }
+]

@@ -1,0 +1,194 @@
+[
+  {
+    "id": "madrid",
+    "name": "Madrid",
+    "country": "España",
+    "coverPhoto": "",
+    "lat": 40.4168,
+    "lng": -3.7038
+  },
+  {
+    "id": "milan",
+    "name": "Milan",
+    "country": "Italia",
+    "coverPhoto": "",
+    "lat": 45.4627042,
+    "lng": 9.0953317
+  },
+  {
+    "id": "atenas",
+    "name": "Atenas",
+    "country": "Grecia",
+    "coverPhoto": "",
+    "lat": 37.9838,
+    "lng": 23.7275
+  },
+  {
+    "id": "santorini",
+    "name": "Santorini",
+    "country": "Grecia",
+    "coverPhoto": "",
+    "lat": 36.4618,
+    "lng": 25.3753
+  },
+  {
+    "id": "mykonos",
+    "name": "Mykonos",
+    "country": "Grecia",
+    "coverPhoto": "",
+    "lat": 37.4467,
+    "lng": 25.3289
+  },
+  {
+    "id": "budapest",
+    "name": "Budapest",
+    "country": "Hungría",
+    "coverPhoto": "",
+    "lat": 47.4979,
+    "lng": 19.0402
+  },
+  {
+    "id": "viena",
+    "name": "Viena",
+    "country": "Austria",
+    "coverPhoto": "",
+    "lat": 48.2082,
+    "lng": 16.3738
+  },
+  {
+    "id": "bratislava",
+    "name": "Bratislava",
+    "country": "Eslovaquia",
+    "coverPhoto": "",
+    "lat": 48.1486,
+    "lng": 17.1077
+  },
+  {
+    "id": "salzburgo",
+    "name": "Salzburgo",
+    "country": "Austria",
+    "coverPhoto": "",
+    "lat": 47.8095,
+    "lng": 13.055
+  },
+  {
+    "id": "munich",
+    "name": "Múnich",
+    "country": "Alemania",
+    "coverPhoto": "",
+    "lat": 48.1351,
+    "lng": 11.582
+  },
+  {
+    "id": "nuremberg",
+    "name": "Núremberg",
+    "country": "Alemania",
+    "coverPhoto": "",
+    "lat": 49.4521,
+    "lng": 11.0767
+  },
+  {
+    "id": "dresde",
+    "name": "Dresde",
+    "country": "Alemania",
+    "coverPhoto": "",
+    "lat": 51.0504,
+    "lng": 13.7373
+  },
+  {
+    "id": "praga",
+    "name": "Praga",
+    "country": "Rep. Checa",
+    "coverPhoto": "",
+    "lat": 50.0755,
+    "lng": 14.4378
+  },
+  {
+    "id": "cracovia",
+    "name": "Cracovia",
+    "country": "Polonia",
+    "coverPhoto": "",
+    "lat": 50.0647,
+    "lng": 19.945
+  },
+  {
+    "id": "varsovia",
+    "name": "Varsovia",
+    "country": "Polonia",
+    "coverPhoto": "",
+    "lat": 52.2297,
+    "lng": 21.0122
+  },
+  {
+    "id": "berlin",
+    "name": "Berlín",
+    "country": "Alemania",
+    "coverPhoto": "",
+    "lat": 52.52,
+    "lng": 13.405
+  },
+  {
+    "id": "hamburgo",
+    "name": "Hamburgo",
+    "country": "Alemania",
+    "coverPhoto": "",
+    "lat": 53.5753,
+    "lng": 10.0153
+  },
+  {
+    "id": "amsterdam",
+    "name": "Ámsterdam",
+    "country": "Países Bajos",
+    "coverPhoto": "",
+    "lat": 52.3676,
+    "lng": 4.9041
+  },
+  {
+    "id": "bruselas",
+    "name": "Bruselas",
+    "country": "Bélgica",
+    "coverPhoto": "",
+    "lat": 50.8503,
+    "lng": 4.3517
+  },
+  {
+    "id": "colonia",
+    "name": "Colonia",
+    "country": "Alemania",
+    "coverPhoto": "",
+    "lat": 50.938,
+    "lng": 6.9603
+  },
+  {
+    "id": "cochem",
+    "name": "Cochem",
+    "country": "Alemania",
+    "coverPhoto": "",
+    "lat": 50.1430002,
+    "lng": 7.1642412
+  },
+  {
+    "id": "luxemburgo",
+    "name": "Luxemburgo",
+    "country": "Luxemburgo",
+    "coverPhoto": "",
+    "lat": 49.6117,
+    "lng": 6.13
+  },
+  {
+    "id": "paris",
+    "name": "París",
+    "country": "Francia",
+    "coverPhoto": "",
+    "lat": 48.8566,
+    "lng": 2.3522
+  },
+  {
+    "id": "madrid",
+    "name": "Madrid",
+    "country": "España",
+    "coverPhoto": "",
+    "lat": 40.4168,
+    "lng": -3.7038
+  }
+]

@@ -1,0 +1,78 @@
+[
+  {
+    "type": "breakfast",
+    "schedule": "7am",
+    "comments": ""
+  },
+  {
+    "id": "act-20260601-1",
+    "placeId": "colina-gellert",
+    "schedule": "8am a 9am",
+    "comments": "Subida a la Ciudadela y Estatua de la Libertad. Empezar el día aquí antes de la colina del Castillo."
+  },
+  {
+    "id": "act-20260601-2",
+    "placeId": "castillo-buda",
+    "schedule": "9am a 11:30am",
+    "comments": "Ir temprano para evitar multitudes. Entrada al palacio."
+  },
+  {
+    "id": "act-20260601-3",
+    "placeId": "iglesia-matias",
+    "schedule": "11:30am a 12:30pm",
+    "comments": "Misma colina del Castillo; a pie desde el palacio."
+  },
+  {
+    "id": "act-20260601-4",
+    "placeId": "bastion-pescadores",
+    "schedule": "12:30pm a 1:30pm",
+    "comments": "Terraza neogótica con vistas al Danubio y Pest."
+  },
+  {
+    "type": "lunch",
+    "schedule": "1:30pm a 2:15pm",
+    "comments": "Almuerzo en zona Pest / Andrássy antes del museo de Liszt."
+  },
+  {
+    "id": "act-20260601-5",
+    "placeId": "museo-franz-liszt",
+    "schedule": "2:15pm a 3:15pm",
+    "comments": "Casa-museo de Liszt (Oktogon). Metro M1 desde el centro. Cierra a las 18:00 lun–vie."
+  },
+  {
+    "id": "act-20260601-6",
+    "placeId": "academia-musica-ferenc-liszt",
+    "schedule": "3:15pm a 4:10pm",
+    "comments": "Liszt Ferenc tér 8 — edificio y sala de conciertos. A pocos minutos de la Ópera por Andrássy."
+  },
+  {
+    "id": "act-20260601-7",
+    "placeId": "opera-nacional-hungria",
+    "schedule": "4:15pm a 5:30pm",
+    "comments": "Llegar 15 min antes (4:15pm). Entrada comprada 4:30pm — visita guiada 1 h."
+  },
+  {
+    "id": "act-20260601-8",
+    "placeId": "new-york-cafe",
+    "schedule": "5:40pm a 6:30pm",
+    "comments": "Reservar mesa. Café histórico (~40€/persona). Cerca de la Ópera y el eje Andrássy."
+  },
+  {
+    "id": "act-20260601-9",
+    "placeId": "budapest-eye",
+    "schedule": "6:30pm a 6:50pm",
+    "comments": "Opcional: rueda en Erzsébet tér. Omitir si el café se alarga."
+  },
+  {
+    "id": "act-20260601-10",
+    "placeId": "puente-cadenas",
+    "schedule": "6:50pm a 7:20pm",
+    "comments": "Cruce peatonal y vistas del Danubio iluminado — justo antes del crucero."
+  },
+  {
+    "id": "act-20260601-11",
+    "placeId": "crucero-nocturno-danubio",
+    "schedule": "8pm a 9pm",
+    "comments": "Vistas iluminadas del Parlamento, Castillo de Buda, Bastión y puentes. Embarque tras cruzar el puente."
+  }
+]

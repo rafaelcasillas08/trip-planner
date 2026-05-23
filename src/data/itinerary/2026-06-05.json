@@ -1,0 +1,108 @@
+[
+  {
+    "type": "breakfast",
+    "schedule": "7am",
+    "comments": ""
+  },
+  {
+    "id": "act-20260605-1",
+    "placeId": "schoenbrunn",
+    "schedule": "8:30am a 10:15am",
+    "comments": "Interior del palacio. Apertura 8:30."
+  },
+  {
+    "id": "act-20260605-2",
+    "placeId": "carruajes-imperiales-schoenbrunn",
+    "schedule": "10:15am a 11am",
+    "comments": "Museo de carruajes imperiales, misma zona."
+  },
+  {
+    "id": "act-20260605-3",
+    "placeId": "palm-house-schoenbrunn",
+    "schedule": "11am a 11:30am",
+    "comments": "Palm House y Desert House."
+  },
+  {
+    "id": "act-20260605-4",
+    "placeId": "jardines-schoenbrunn",
+    "schedule": "11:30am a 12pm",
+    "comments": "Paseo por los jardines; laberinto si hay tiempo."
+  },
+  {
+    "id": "act-20260605-5",
+    "placeId": "gloriette-schoenbrunn",
+    "schedule": "12pm a 12:30pm",
+    "comments": "Vista panorámica; subida a pie o bus."
+  },
+  {
+    "type": "lunch",
+    "schedule": "12:30pm a 2pm",
+    "comments": "1 h 30 — comida + metro/tranvía Schönbrunn → Maria-Theresien-Platz."
+  },
+  {
+    "id": "act-20260605-6",
+    "placeId": "museo-historia-natural-viena",
+    "schedule": "2pm a 3pm",
+    "comments": "Interior 1 h."
+  },
+  {
+    "id": "act-20260605-7",
+    "placeId": "museo-nacional-de-arte",
+    "schedule": "3pm a 4:30pm",
+    "comments": "Interior 1 h 30."
+  },
+  {
+    "id": "act-20260605-8",
+    "placeId": "templo-teseo",
+    "schedule": "4:30pm a 4:45pm",
+    "comments": "Inicio ruta Ring hacia el norte — parque / exterior."
+  },
+  {
+    "id": "act-20260605-9",
+    "placeId": "parlamento-austria",
+    "schedule": "4:45pm a 5pm",
+    "comments": "Exterior; enfrente del Templo de Teseo."
+  },
+  {
+    "id": "act-20260605-10",
+    "placeId": "ayuntamiento-viena",
+    "schedule": "5pm a 5:15pm",
+    "comments": "Exterior."
+  },
+  {
+    "id": "act-20260605-11",
+    "placeId": "palacio-justicia",
+    "schedule": "5:15pm a 5:30pm",
+    "comments": "Exterior."
+  },
+  {
+    "id": "act-20260605-12",
+    "placeId": "burgtheater",
+    "schedule": "5:30pm a 5:45pm",
+    "comments": "Exterior."
+  },
+  {
+    "id": "act-20260605-13",
+    "placeId": "universidad-viena",
+    "schedule": "5:45pm a 6pm",
+    "comments": "Solo foto por fuera."
+  },
+  {
+    "id": "act-20260605-14",
+    "placeId": "iglesia-votiva",
+    "schedule": "6pm a 6:20pm",
+    "comments": "Interior o exterior según horario."
+  },
+  {
+    "id": "act-20260605-15",
+    "placeId": "bolsa-de-viena",
+    "schedule": "6:20pm a 6:35pm",
+    "comments": "Foto rápida por fuera. Fin ruta Ring (~2 h)."
+  },
+  {
+    "id": "act-20260605-16",
+    "placeId": "concierto-mozart-musikverein",
+    "schedule": "7:30pm a 10pm",
+    "comments": "Reservación viernes 5 de junio a las 20:00. Llegar con tiempo."
+  }
+]

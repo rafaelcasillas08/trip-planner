@@ -1,0 +1,19 @@
+[
+  {
+    "type": "transfer",
+    "fromCityId": "munich",
+    "toCityId": "nuremberg",
+    "transportMode": "train",
+    "duration": "2h",
+    "stationTime": "12:00pm",
+    "departureTime": "12:30pm",
+    "arrivalTime": "1:30pm",
+    "comments": ""
+  },
+  {
+    "type": "work",
+    "id": "work-20260617",
+    "schedule": "Todo el día",
+    "comments": "Trabajo remoto tras llegada. Sin turismo planificado en Núremberg hoy."
+  }
+]

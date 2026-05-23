@@ -1,0 +1,27 @@
+[
+  {
+    "type": "transfer",
+    "fromCityId": "viena",
+    "toCityId": "salzburgo",
+    "transportMode": "train",
+    "duration": "2h 25min",
+    "stationTime": "7:30am",
+    "departureTime": "8am",
+    "arrivalTime": "10:25am",
+    "comments": "Wien Hauptbahnhof → Salzburg Hbf. Llevar equipaje; reservar asientos si es posible. Ajustar horarios al billete real.",
+    "toStationTransfer": {
+      "schedule": "7:15am a 7:30am",
+      "comments": "Traslado al hotel en Viena o directo a Wien Hbf (taxi/Uber o U-Bahn)."
+    },
+    "toHotelTransfer": {
+      "schedule": "10:25am a 11:30am",
+      "comments": "Llegada a Salzburg Hbf, traslado al hotel (dejar maletas / check-in)."
+    }
+  },
+  {
+    "type": "work",
+    "id": "work-20260609",
+    "schedule": "Todo el día",
+    "comments": "Trabajo remoto. Sin visitas turísticas; resto del día tras el traslado."
+  }
+]

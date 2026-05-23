@@ -1,0 +1,24 @@
+[
+  {
+    "type": "transfer",
+    "fromCityId": "santorini",
+    "toCityId": "mykonos",
+    "transportMode": "ferry",
+    "duration": "2h 15min",
+    "departureTime": "12:30pm",
+    "arrivalTime": "2:45pm",
+    "comments": ""
+  },
+  {
+    "id": "act-20260530-1",
+    "placeId": "mykonos-places",
+    "schedule": "3pm a 7pm",
+    "comments": "Recorrer a pie el centro de la isla de Mykonos"
+  },
+  {
+    "id": "act-20260530-2",
+    "placeId": "champions-final",
+    "schedule": "7pm a 10pm",
+    "comments": "Ver la final de la Champions en Mykonos, comienza a las 7pm"
+  }
+]

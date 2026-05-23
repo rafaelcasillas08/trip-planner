@@ -1,0 +1,440 @@
+[
+  {
+    "id": "parlamento-hungria",
+    "cityId": "budapest",
+    "name": "Parlamento de Hungría",
+    "location": "https://maps.app.goo.gl/GxYUmcqnx16hHDQY9",
+    "photos": [
+      "budapest/parlamento-hungria-1.png",
+      "budapest/parlamento-hungria-2.png",
+      "budapest/parlamento-hungria-3.png",
+      "budapest/parlamento-hungria-4.png",
+      "budapest/parlamento-hungria-5.png"
+    ],
+    "comments": "Uno de los edificios más impresionantes de Europa. Tenemos que comprar los boletos ya, porque al parecer se acaban; esto es para un audio tour por el palacio.",
+    "cost": "14,000 HUF = 789 mxn",
+    "transport": "Metro M2, estación Kossuth Lajos tér",
+    "website": "https://jegymester.hu/production/480000/parlament-parlamenti-latogatas/48295385",
+    "hours": "8:00 a 18:00 hrs",
+    "timeNeeded": "2 hrs",
+    "lat": 47.507121,
+    "lng": 19.045669
+  },
+  {
+    "id": "bastion-pescadores",
+    "cityId": "budapest",
+    "name": "Bastión de los Pescadores",
+    "location": "https://maps.app.goo.gl/pagMsnMpSAFQvKM89",
+    "photos": [
+      "budapest/bastion-pescadores-1.png",
+      "budapest/bastion-pescadores-2.png"
+    ],
+    "comments": "Terraza neogótica con vistas espectaculares del Danubio y Pest. Ideal al atardecer.",
+    "cost": "2700 HUF = 152 mxn",
+    "transport": "Autobús 16 o funicular desde el puente de las Cadenas",
+    "website": "https://budavar.hu/halaszbastya/",
+    "hours": "9:00 a 21:00 hrs",
+    "timeNeeded": "1.5 hrs",
+    "lat": 47.5021827,
+    "lng": 19.0347812
+  },
+  {
+    "id": "castillo-buda",
+    "cityId": "budapest",
+    "name": "Castillo de Buda",
+    "location": "https://maps.app.goo.gl/c8x3oxUbcW641iTs7",
+    "photos": [
+      "budapest/castillo-buda-1.png",
+      "budapest/castillo-buda-2.png",
+      "budapest/castillo-buda-3.png"
+    ],
+    "comments": "Vista panorámica increíble del Danubio y Pest. Mejor ir temprano en la mañana para evitar multitudes.",
+    "cost": "2700 HUF = 152 mxn",
+    "transport": "Funicular desde el puente de las Cadenas o autobús 16 desde Deák tér",
+    "website": "https://ticket.budavar.hu/hu",
+    "hours": "9:00 a 21:00 hrs",
+    "timeNeeded": "3 hrs",
+    "lat": 47.4962048,
+    "lng": 19.0395666
+  },
+  {
+    "id": "basilica-san-esteban",
+    "cityId": "budapest",
+    "name": "Basílica de San Esteban",
+    "location": "https://maps.app.goo.gl/fJ9eS8EhD27KJXSJ9",
+    "photos": [
+      "budapest/basilica-san-esteban-1.png",
+      "budapest/basilica-san-esteban-2.png"
+    ],
+    "comments": "Al parecer no cobran entrada a la basílica.",
+    "cost": "",
+    "transport": "",
+    "website": "",
+    "hours": "9:00 a 17:00 hrs",
+    "timeNeeded": "",
+    "lat": 47.5008902,
+    "lng": 19.0539887
+  },
+  {
+    "id": "puente-cadenas",
+    "cityId": "budapest",
+    "name": "Puente de las Cadenas",
+    "location": "https://maps.app.goo.gl/8nAtp4NJhB4aXEKq9",
+    "photos": [
+      "budapest/puente-cadenas-1.png"
+    ],
+    "comments": "Puente icónico que une Buda y Pest sobre el Danubio. Entrada gratuita.",
+    "cost": "Entrada gratis",
+    "transport": "",
+    "website": "",
+    "hours": "",
+    "timeNeeded": "",
+    "lat": 47.4989928,
+    "lng": 19.0436994
+  },
+  {
+    "id": "plaza-heroes",
+    "cityId": "budapest",
+    "name": "Plaza de los Héroes",
+    "location": "https://maps.app.goo.gl/BzykUgoUivnECg386",
+    "photos": [
+      "budapest/plaza-heroes-1.png"
+    ],
+    "comments": "La plaza más grande de Budapest, con el Monumento del Milenio y los arcos de los líderes de las siete tribus que fundaron la ciudad.",
+    "cost": "Gratis (exteriores)",
+    "transport": "Metro M1, estación Hősök tere",
+    "website": "",
+    "hours": "Siempre abierto (exteriores)",
+    "timeNeeded": "1.5 hrs",
+    "lat": 47.5149429,
+    "lng": 19.0778626
+  },
+  {
+    "id": "castillo-vajdahunyad",
+    "cityId": "budapest",
+    "name": "Castillo Vajdahunyad",
+    "location": "https://maps.app.goo.gl/9LNG2NEHyXnawLNG8",
+    "photos": [
+      "budapest/castillo-vajdahunyad-1.png"
+    ],
+    "comments": "Castillo Vajdahunyad de Budapest, uno de los castillos más importantes de la ciudad. Es un castillo gótico que ha sido transformado en un castillo romántico.",
+    "cost": "",
+    "transport": "",
+    "website": "",
+    "hours": "",
+    "timeNeeded": "",
+    "lat": 47.5149079,
+    "lng": 19.0828231
+  },
+  {
+    "id": "opera-nacional-hungria",
+    "cityId": "budapest",
+    "name": "Ópera Nacional de Hungría",
+    "location": "https://maps.app.goo.gl/8u9a5Xx9iPsds3ZB7",
+    "photos": [
+      "budapest/opera-nacional-hungria-1.png"
+    ],
+    "comments": "Visita guiada por el interior. Patrimonio UNESCO.",
+    "cost": "",
+    "transport": "",
+    "website": "",
+    "hours": "",
+    "timeNeeded": "",
+    "lat": 47.5027169,
+    "lng": 19.0583076
+  },
+  {
+    "id": "mercado-central-budapest",
+    "cityId": "budapest",
+    "name": "Mercado Central de Budapest",
+    "location": "https://maps.app.goo.gl/sT6s98sdJ3BcDCdD9",
+    "photos": [
+      "budapest/mercado-central-1.png"
+    ],
+    "comments": "El mercado cubierto más grande de Budapest. Lugar perfecto para comprar páprika, artesanías y probar el gulash. En la planta baja hay frutas, verduras, salamis y foie gras húngaro; en el piso superior, artesanía y comida típica.",
+    "cost": "Gratis (entrada)",
+    "transport": "Tranvía 2 o 47/49, parada Fővám tér",
+    "website": "",
+    "hours": "Lun 06:00-17:00, Mar-Vie 06:00-18:00, Sáb 06:00-15:00",
+    "timeNeeded": "1 hr",
+    "lat": 47.4870848,
+    "lng": 19.058493
+  },
+  {
+    "id": "vaci-utca",
+    "cityId": "budapest",
+    "name": "Váci u",
+    "location": "https://maps.app.goo.gl/58T5VXoeUenaMHNd9",
+    "photos": [
+      "budapest/vaci-utca-1.png"
+    ],
+    "comments": "La calle peatonal más turística, ideal para compras y restaurantes; podemos ir a cenar o comer.",
+    "cost": "",
+    "transport": "",
+    "website": "",
+    "hours": "",
+    "timeNeeded": "",
+    "lat": 47.4918902,
+    "lng": 19.0538414
+  },
+  {
+    "id": "colina-gellert",
+    "cityId": "budapest",
+    "name": "La Colina Gellért",
+    "location": "https://maps.app.goo.gl/QEBHbvM6BisQFP658",
+    "photos": [
+      "budapest/colina-gellert-1.png",
+      "budapest/colina-gellert-2.png",
+      "budapest/colina-gellert-3.png",
+      "budapest/colina-gellert-4.png"
+    ],
+    "comments": "Colina con vistas al Danubio, la Estatua de la Libertad y el Fuerte de la Ciudadela.",
+    "cost": "",
+    "transport": "",
+    "website": "",
+    "hours": "",
+    "timeNeeded": "0.5 hrs",
+    "lat": 47.4870199,
+    "lng": 19.0456981
+  },
+  {
+    "id": "szimpla-kert",
+    "cityId": "budapest",
+    "name": "Ruin Bars Budapest",
+    "location": "https://maps.app.goo.gl/oauZeGUxy6SoDGjV9",
+    "photos": [
+      "budapest/ruin-bars-1.png"
+    ],
+    "comments": "Bar del barrio judío; podemos ir por la noche.",
+    "cost": "",
+    "transport": "",
+    "website": "",
+    "hours": "",
+    "timeNeeded": "",
+    "lat": 47.4970568,
+    "lng": 19.0630076
+  },
+  {
+    "id": "museo-bellas-artes-budapest",
+    "cityId": "budapest",
+    "name": "Museo de Bellas Artes de Budapest",
+    "location": "https://maps.app.goo.gl/q7tVqK3PczYkvz127",
+    "photos": [
+      "budapest/museo-bellas-artes-1.png"
+    ],
+    "comments": "Solo si sobra tiempo; junto a la Plaza de los Héroes.",
+    "cost": "",
+    "transport": "Metro M1, estación Hősök tere",
+    "website": "",
+    "hours": "",
+    "timeNeeded": "2 hrs",
+    "lat": 47.5158038,
+    "lng": 19.0768998
+  },
+  {
+    "id": "new-york-cafe",
+    "cityId": "budapest",
+    "name": "New York Café",
+    "location": "https://maps.app.goo.gl/ZrmWY2HCxcfhktTw7",
+    "photos": [
+      "budapest/new-york-cafe-1.png"
+    ],
+    "comments": "Se ve muy bonito, pero cuesta 40€ por persona.",
+    "cost": "",
+    "transport": "",
+    "website": "",
+    "hours": "",
+    "timeNeeded": "",
+    "lat": 47.4987259,
+    "lng": 19.0704556
+  },
+  {
+    "id": "museo-franz-liszt",
+    "cityId": "budapest",
+    "name": "Museo Franz Liszt",
+    "location": "https://maps.app.goo.gl/YPsesnHcxEpdEjmC6",
+    "photos": [
+      "budapest/museo-franz-liszt-1.png"
+    ],
+    "comments": "Casa donde Franz Liszt vivió y enseñó sus últimos años. Conserva su piano original y manuscritos. Imprescindible para amantes de la música clásica.",
+    "cost": "€8",
+    "transport": "Metro M1, estación Oktogon",
+    "website": "https://www.lisztmuseum.hu",
+    "hours": "Lun-Vie 10:00-18:00, Sáb 09:00-17:00, Dom cerrado",
+    "timeNeeded": "1.5 hrs",
+    "lat": 47.5069134,
+    "lng": 19.066522
+  },
+  {
+    "id": "academia-musica-ferenc-liszt",
+    "cityId": "budapest",
+    "name": "Academia de Música Ferenc Liszt",
+    "location": "https://maps.app.goo.gl/wdyVVbadXepiiBMn7",
+    "photos": [
+      "budapest/academia-musica-ferenc-liszt-1.png"
+    ],
+    "comments": "Liszt Ferenc Zeneművészeti Egyetem. Edificio histórico y sala de conciertos en Liszt Ferenc tér 8, a pocos minutos del museo y la Ópera por Andrássy.",
+    "cost": "",
+    "transport": "Metro M1, estación Oktogon o Bajza utca",
+    "website": "https://www.lisztacademy.hu",
+    "hours": "",
+    "timeNeeded": "45 min",
+    "lat": 47.5032647,
+    "lng": 19.064271
+  },
+  {
+    "id": "gran-sinagoga-dohany",
+    "cityId": "budapest",
+    "name": "Gran Sinagoga de Dohány",
+    "location": "https://maps.app.goo.gl/T5V1qAb389rH6XZN8",
+    "photos": [
+      "budapest/gran-sinagoga-1.png",
+      "budapest/gran-sinagoga-2.png"
+    ],
+    "comments": "La sinagoga más grande de Europa (3.000 personas) y segunda del mundo. En el jardín hay un árbol conmemorativo a las víctimas del Holocausto.",
+    "cost": "€15",
+    "transport": "Metro M2, estación Astoria",
+    "website": "https://www.dohany-zsinagoga.hu",
+    "hours": "Dom-Jue 10:00-20:00, Vie 10:00-16:00",
+    "timeNeeded": "2 hrs",
+    "lat": 47.4959461,
+    "lng": 19.060538
+  },
+  {
+    "id": "excursion-esztergom-visegrad-szentendre",
+    "cityId": "budapest",
+    "name": "Excursión: Esztergom, Visegrád y Szentendre",
+    "location": "",
+    "photos": [],
+    "comments": "Día completo al norte de Budapest por el Danubio: la basílica de Esztergom (la más grande de Hungría), el castillo de Visegrád con vistas al río, y el pueblo artístico de Szentendre con calles empedradas y galerías.",
+    "cost": "",
+    "transport": "Tren HÉV, autobús o tour organizado desde Budapest",
+    "website": "",
+    "hours": "",
+    "timeNeeded": "1 día",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "id": "budapest-eye",
+    "cityId": "budapest",
+    "name": "Budapest Eye",
+    "location": "https://maps.app.goo.gl/4LhpJa1rFe3k6QQm6",
+    "photos": [
+      "budapest/budapest-eye-1.png"
+    ],
+    "comments": "Rueda de la fortuna en Erzsébet tér, cerca de Deák Ferenc tér y la Ópera. Opcional si sobra tiempo antes del crucero.",
+    "cost": "",
+    "transport": "Metro M1/M2/M3, estación Deák Ferenc tér",
+    "website": "https://budapesteye.hu",
+    "hours": "",
+    "timeNeeded": "30 min",
+    "lat": 47.4981503,
+    "lng": 19.0520441
+  },
+  {
+    "id": "crucero-nocturno-danubio",
+    "cityId": "budapest",
+    "name": "Crucero nocturno por el Danubio",
+    "location": "",
+    "photos": [
+      "budapest/crucero-nocturno-danubio-1.png"
+    ],
+    "comments": "Paseo en barco por la noche con vistas iluminadas del Parlamento, el Castillo de Buda, el Bastión de los Pescadores y los puentes del Danubio. Ideal al atardecer o de noche.",
+    "cost": "",
+    "transport": "Embarque en el muelle del Danubio (Pest, cerca del Chain Bridge o Vigadó tér)",
+    "website": "",
+    "hours": "Salidas habituales al atardecer y por la noche",
+    "timeNeeded": "1.5 hrs",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "id": "palacio-de-la-bolsa",
+    "cityId": "budapest",
+    "name": "Palacio de la Bolsa",
+    "location": "https://maps.app.goo.gl/4a33g4nyQRXA2etb8",
+    "photos": [
+      "budapest/palacio-de-la-bolsa-1.png"
+    ],
+    "comments": "Palacio de la Bolsa de Budapest, uno de los edificios más importantes de la ciudad. Es un edificio histórico que ha sido transformado en un centro cultural y de negocios.",
+    "cost": "",
+    "transport": "",
+    "website": "",
+    "hours": "",
+    "timeNeeded": "",
+    "lat": 47.503683,
+    "lng": 19.0488786
+  },
+  {
+    "id": "centro-memorial-del-holocausto",
+    "cityId": "budapest",
+    "name": "Centro memorial del Holocausto",
+    "location": "https://maps.app.goo.gl/vDjn5yh6Wb47snCR6",
+    "photos": [
+      "budapest/memorial-holocausto-1.png",
+      "budapest/memorial-holocausto-2.png",
+      "budapest/memorial-holocausto-3.png"
+    ],
+    "comments": "Centro memorial del Holocausto de Budapest, uno de los centros más importantes de la ciudad. Es un centro cultural y de memoria que ha sido transformado en un centro cultural y de memoria.",
+    "cost": "",
+    "transport": "",
+    "website": "",
+    "hours": "",
+    "timeNeeded": "",
+    "lat": 47.4835707,
+    "lng": 19.0733663
+  },
+  {
+    "id": "museo-nacional-hungaro",
+    "cityId": "budapest",
+    "name": "Museo Nacional de Hungría",
+    "location": "https://maps.app.goo.gl/JjySgASZ4VZywXp16",
+    "photos": [
+      "budapest/museo-nacional-hungaro.png"
+    ],
+    "comments": "Museo Nacional Hungaro de Budapest, uno de los museos más importantes de la ciudad. Es un museo cultural y de historia que ha sido transformado en un museo cultural y de historia.",
+    "cost": "",
+    "transport": "",
+    "website": "",
+    "hours": "",
+    "timeNeeded": "",
+    "lat": 47.4912343,
+    "lng": 19.0624423
+  },
+  {
+    "id": "zapatos-en-el-danubio",
+    "cityId": "budapest",
+    "name": "Zapatos en el Danubio",
+    "location": "https://maps.app.goo.gl/6N9acH8pGN45KFUr7",
+    "photos": [
+      "budapest/zapatos-en-el-danubio-1.png"
+    ],
+    "comments": "Zapatos en el Danubio de Budapest, uno de los zapatos más importantes de la ciudad. Es un zapato cultural y de historia que ha sido transformado en un zapato cultural y de historia.",
+    "cost": "",
+    "transport": "",
+    "website": "",
+    "hours": "",
+    "timeNeeded": "",
+    "lat": 47.5038792,
+    "lng": 19.044779
+  },
+  {
+    "id": "iglesia-matias",
+    "cityId": "budapest",
+    "name": "Iglesia de Matías",
+    "location": "https://maps.app.goo.gl/YB3PUqcVwQRZJP6R9",
+    "photos": [
+      "budapest/iglesia-matias-1.png",
+      "budapest/iglesia-matias-2.png"
+    ],
+    "comments": "Iglesia de Matías de Budapest, uno de las iglesias más importantes de la ciudad. Es un edificio cultural y de historia que ha sido transformado en un edificio cultural y de historia.",
+    "cost": "",
+    "transport": "",
+    "website": "",
+    "hours": "",
+    "timeNeeded": "",
+    "lat": 47.5019537,
+    "lng": 19.0341617
+  }
+]

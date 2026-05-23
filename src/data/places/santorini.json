@@ -1,0 +1,17 @@
+[
+  {
+    "id": "santorini-places",
+    "cityId": "santorini",
+    "name": "Recorrido por toda la isla de Santorini",
+    "location": "https://maps.google.com/?q=Oia+Santorini+Greece",
+    "photos": [],
+    "comments": "Recorrer en moto los lugares más importantes de la isla de Santorini",
+    "cost": "",
+    "transport": "",
+    "website": "",
+    "hours": "",
+    "timeNeeded": "1 día",
+    "lat": 36.4618,
+    "lng": 25.3753
+  }  
+]

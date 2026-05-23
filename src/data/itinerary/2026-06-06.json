@@ -1,0 +1,84 @@
+[
+  {
+    "type": "breakfast",
+    "schedule": "7am",
+    "comments": ""
+  },
+  {
+    "id": "act-20260606-1",
+    "placeId": "burggarten",
+    "schedule": "8am a 8:45am",
+    "comments": "Antes de apertura del Hofburg; estatuas Mozart y Francisco José."
+  },
+  {
+    "id": "act-20260606-2",
+    "placeId": "hofburg",
+    "schedule": "9am a 11am",
+    "comments": "Interior 2 h — apertura 9:00."
+  },
+  {
+    "id": "act-20260606-3",
+    "placeId": "museo-sisi",
+    "schedule": "11am a 12:15pm",
+    "comments": "Interior en el Hofburg."
+  },
+  {
+    "id": "act-20260606-4",
+    "placeId": "biblioteca-nacional-austria",
+    "schedule": "12:15pm a 1pm",
+    "comments": "Interior en el Hofburg."
+  },
+  {
+    "id": "act-20260606-5",
+    "placeId": "tesoro-imperial",
+    "schedule": "1pm a 1:45pm",
+    "comments": "Interior (Hofburg)."
+  },
+  {
+    "type": "lunch",
+    "schedule": "1:45pm a 2:30pm",
+    "comments": "Zona Hofburg / centro."
+  },
+  {
+    "id": "act-20260606-6",
+    "placeId": "cripta-imperial",
+    "schedule": "2:30pm a 3:15pm",
+    "comments": "Interior — Iglesia de los Capuchinos."
+  },
+  {
+    "id": "act-20260606-7",
+    "placeId": "catedral-san-esteban",
+    "schedule": "3:45pm a 4:30pm",
+    "comments": "Interior — llegar 15:45; cierra 16:30."
+  },
+  {
+    "id": "act-20260606-8",
+    "placeId": "casa-mozart",
+    "schedule": "4:30pm a 4:50pm",
+    "comments": "Mismo rumbo que la catedral (Domgasse / centro)."
+  },
+  {
+    "id": "act-20260606-9",
+    "placeId": "iglesia-san-pedro",
+    "schedule": "4:50pm a 5:15pm",
+    "comments": "Interior."
+  },
+  {
+    "id": "act-20260606-10",
+    "placeId": "columna-peste-viena",
+    "schedule": "5:15pm a 5:25pm",
+    "comments": "Paseo por Graben."
+  },
+  {
+    "id": "act-20260606-11",
+    "placeId": "graben-street",
+    "schedule": "5:25pm a 5:35pm",
+    "comments": "Calle peatonal."
+  },
+  {
+    "id": "act-20260606-12",
+    "placeId": "opera-viena-concierto",
+    "schedule": "6pm a 10pm",
+    "comments": "Sábado 6 de junio, 19:00. Llegar ~18:00 (fila 1 h antes)."
+  }
+]

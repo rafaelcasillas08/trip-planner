@@ -1,0 +1,72 @@
+[
+  {
+    "type": "breakfast",
+    "schedule": "7am",
+    "comments": ""
+  },
+  {
+    "id": "act-20260611-1",
+    "placeId": "hohensalzburg",
+    "schedule": "8:30am a 10:30am",
+    "comments": "Funicular; primera hora para evitar colas. Cierra 20:00."
+  },
+  {
+    "id": "act-20260611-2",
+    "placeId": "abadia-san-pedro",
+    "schedule": "10:40am a 11:15am",
+    "comments": "Junto al casco; interior rápido o solo exterior si vais justos."
+  },
+  {
+    "id": "act-20260611-3",
+    "placeId": "catedral-salzburgo",
+    "schedule": "11:20am a 12pm",
+    "comments": "Interior ~40 min. Cierra 18:00."
+  },
+  {
+    "id": "act-20260611-4",
+    "placeId": "residenzplatz",
+    "schedule": "12pm a 12:15pm",
+    "comments": "Inicio bloque plazas (1 h total). Ver fachadas del DomQuartier desde la plaza."
+  },
+  {
+    "id": "act-20260611-5",
+    "placeId": "plaza-mozart",
+    "schedule": "12:15pm a 12:25pm",
+    "comments": "Mozartplatz; estatua de Mozart. Misma zona que Residenzplatz."
+  },
+  {
+    "id": "act-20260611-6",
+    "placeId": "kapitelplatz",
+    "schedule": "12:25pm a 12:35pm",
+    "comments": "Junto a la catedral."
+  },
+  {
+    "id": "act-20260611-7",
+    "placeId": "alter-markt",
+    "schedule": "12:35pm a 12:45pm",
+    "comments": "Plaza antigua; ritmo rápido."
+  },
+  {
+    "type": "lunch",
+    "schedule": "1pm a 2pm",
+    "comments": "Casco, cerca del bloque de plazas."
+  },
+  {
+    "id": "act-20260611-9",
+    "placeId": "residenzgalerie-salzburg",
+    "schedule": "2pm a 3:30pm",
+    "comments": "DomQuartier interior — 1,5 h. Comprar ticket; cierra 17:00."
+  },
+  {
+    "id": "act-20260611-10",
+    "placeId": "palacio-mirabell",
+    "schedule": "3:30pm a 6pm",
+    "comments": "2,5 h — jardines + palacio. Lunes–sáb 8:00–18:00. Salir hacia el hotel ~18:00."
+  },
+  {
+    "type": "work",
+    "id": "work-20260611",
+    "schedule": "6pm a 12am",
+    "comments": "En el hotel desde las 18:00."
+  }
+]

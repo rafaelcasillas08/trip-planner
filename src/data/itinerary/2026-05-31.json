@@ -1,0 +1,22 @@
+[
+  {
+    "type": "transfer",
+    "fromCityId": "mykonos",
+    "toCityId": "atenas",
+    "transportMode": "ferry",
+    "duration": "4h 40min",
+    "departureTime": "12pm",
+    "arrivalTime": "4:40pm",
+    "comments": ""
+  },
+  {
+    "type": "transfer",
+    "fromCityId": "atenas",
+    "toCityId": "budapest",
+    "transportMode": "plane",
+    "duration": "2h 5min",
+    "departureTime": "8:45pm",
+    "arrivalTime": "9:50pm",
+    "comments": "Horario de llegada en Budapest"
+  }
+]

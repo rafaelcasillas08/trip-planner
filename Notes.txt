@@ -1,0 +1,20 @@
+
+Para auto-generar las coordenadas con en link de Google maps, correr este comando:
+
+npm run sync-coords -- {ciudad}
+
+Ejemplo:
+npm run sync-coords -- salzburgo
+
+
+
+Miercoles: traslado a nuremberg
+Jueves: Conocer nuremberg
+Viernes:
+- Opcion 1: Conocer museo nazi (ver video en YT) y juicios de nuremberg, despues traslado a Dresde
+- Opcion 2: Traslado a Dresde temprano, hacer actividades en la tarde en Dresde
+Sábado
+- Opcion 1: Dedicar todo el día a Dresde. Ir a Praga el domingo en la mañana
+- Opcion 2: Dedicar solo medio día a Dresde. Ir a Praga el sábado en la tarde
+Domingo
+- Más palacios fuera en Dresde o traslado a Praga
