@@ -10,7 +10,7 @@ export default function App() {
   const firstDate = availableDates[0] ?? "";
 
   return (
-    <BrowserRouter>
+    <BrowserRouter basename="/trip-planner">
       <Routes>
         <Route element={<AppLayout />}>
           <Route index element={<Navigate to="/places" replace />} />
