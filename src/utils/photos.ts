@@ -1,4 +1,5 @@
-const GITHUB_BASE = "https://raw.githubusercontent.com/TU_USUARIO/trip-planner/main/src/data/photos";
+const GITHUB_BASE =
+  "https://raw.githubusercontent.com/RafaelCasillas08/trip-planner/main/src/data/photos";
 
 function isLocalHost(): boolean {
   const h = window.location.hostname;

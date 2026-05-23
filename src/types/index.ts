@@ -65,7 +65,7 @@ export type EatBlock = {
 };
 
 export type WorkBlock = {
-  type: "work";
+  type: "work" | "works";
   id: string;
   date: string;
   schedule: string; // "Todo el día" | "9am a 1pm"

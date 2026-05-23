@@ -4,6 +4,7 @@ import { fileURLToPath } from "node:url";
 import type { IncomingMessage, ServerResponse } from "node:http";
 import { defineConfig, type Plugin } from "vite";
 import tailwindcss from "@tailwindcss/vite";
+import react from "@vitejs/plugin-react";
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const photosDir = path.resolve(__dirname, "src/data/photos");
@@ -54,5 +55,6 @@ function localPhotosPlugin(): Plugin {
 }
 
 export default defineConfig({
-  plugins: [tailwindcss(), localPhotosPlugin()],
+  plugins: [tailwindcss(), localPhotosPlugin(), react()],
+  base: "/trip-planner/",
 });
