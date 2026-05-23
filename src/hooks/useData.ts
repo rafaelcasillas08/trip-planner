@@ -42,7 +42,7 @@ export function isTransferRef(item: ItineraryItem): item is ItineraryTransfer {
 }
 
 export function isWorkBlock(item: ItineraryItem): item is WorkBlock {
-  return item.type === "work";
+  return item.type === "works";
 }
 
 export function isEatBlock(item: ItineraryItem): item is EatBlock {
