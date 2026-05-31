@@ -1,4 +1,4 @@
-import { BrowserRouter, Routes, Route, Navigate } from "react-router-dom";
+import { HashRouter, Routes, Route, Navigate } from "react-router-dom";
 import AppLayout from "./components/AppLayout";
 import PlacesPage from "./pages/PlacesPage";
 import PlaceDetailPage from "./pages/PlaceDetailPage";
@@ -10,7 +10,7 @@ export default function App() {
   const firstDate = availableDates[0] ?? "";
 
   return (
-    <BrowserRouter basename="/trip-planner">
+    <HashRouter basename="/trip-planner">
       <Routes>
         <Route element={<AppLayout />}>
           <Route index element={<Navigate to="/places" replace />} />
@@ -30,6 +30,6 @@ export default function App() {
           <Route path="/map" element={<MapPage />} />
         </Route>
       </Routes>
-    </BrowserRouter>
+    </HashRouter>
   );
 }
