@@ -6,39 +6,39 @@
   },
   {
     "id": "act-20260603-1",
-    "placeId": "basilica-san-esteban",
+    "placeId": "mercado-central-budapest",
     "schedule": "8am a 9am",
-    "comments": "Abre a las 9:00 — exterior o breve interior según cola."
+    "comments": "Mercado cubierto — páprika, salamis y comida típica en planta baja."
   },
   {
     "id": "act-20260603-2",
-    "placeId": "palacio-de-la-bolsa",
-    "schedule": "11:15am a 11:45am",
-    "comments": "Bloque Parlamento — exterior; caminata desde la basílica hacia el Danubio / Kossuth tér."
+    "placeId": "vaci-utca",
+    "schedule": "9am a 9:30am",
+    "comments": "Váci utca — calle peatonal junto al mercado."
   },
   {
     "id": "act-20260603-3",
-    "placeId": "zapatos-en-el-danubio",
-    "schedule": "11:45am a 12:15pm",
-    "comments": "Memorial en la orilla; mismo bloque que Bolsa y Parlamento (~5 min entre sitios)."
+    "placeId": "museo-franz-liszt",
+    "schedule": "10am a 11am",
+    "comments": "Casa-museo de Liszt (Oktogon). Metro M1 hacia el Danubio."
   },
   {
     "id": "act-20260603-4",
-    "placeId": "parlamento-hungria",
-    "schedule": "12:45pm a 3pm",
-    "comments": "Entrada reservada 13:00 — audio tour ~2 h. Llegar 12:45 para cola y seguridad."
+    "placeId": "academia-musica-ferenc-liszt",
+    "schedule": "11:30am a 12pm",
+    "comments": "Liszt Ferenc tér 8 — edificio y sala de conciertos. Traslado rápido desde Andrássy."
   },
   {
     "id": "act-20260603-5",
-    "placeId": "mercado-central-budapest",
-    "schedule": "3:15pm a 4:15pm",
-    "comments": "Buffer — páprika y comida típica si no se visitó antes."
+    "placeId": "zapatos-en-el-danubio",
+    "schedule": "11:45am a 12:15pm",
+    "comments": "Memorial en la orilla; caminata hacia el Parlamento (~5 min)."
   },
   {
     "id": "act-20260603-6",
-    "placeId": "vaci-utca",
-    "schedule": "4:15pm a 5pm",
-    "comments": "Paseo por la calle peatonal de camino al hotel."
+    "placeId": "parlamento-hungria",
+    "schedule": "12:45pm a 3pm",
+    "comments": "Entrada reservada 13:00 — audio tour ~2 h. Llegar 12:45 para cola y seguridad."
   },
   {
     "type": "work",
