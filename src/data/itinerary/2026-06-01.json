@@ -13,66 +13,60 @@
   {
     "id": "act-20260601-2",
     "placeId": "castillo-buda",
-    "schedule": "9am a 11:30am",
+    "schedule": "9am a 10:30am",
     "comments": "Ir temprano para evitar multitudes. Entrada al palacio."
   },
   {
     "id": "act-20260601-3",
     "placeId": "iglesia-matias",
-    "schedule": "11:30am a 12:30pm",
+    "schedule": "11:00am a 11:45am",
     "comments": "Misma colina del Castillo; a pie desde el palacio."
   },
   {
     "id": "act-20260601-4",
     "placeId": "bastion-pescadores",
-    "schedule": "12:30pm a 1:30pm",
+    "schedule": "11:45am a 1:00pm",
     "comments": "Terraza neogótica con vistas al Danubio y Pest."
   },
   {
     "type": "lunch",
-    "schedule": "1:30pm a 2:15pm",
-    "comments": "Almuerzo en zona Pest / Andrássy antes del museo de Liszt."
+    "schedule": "1:00pm a 2:00pm",
+    "comments": "Almuerzo en zona Pest antes de la basílica y el eje del Danubio."
   },
   {
     "id": "act-20260601-5",
-    "placeId": "museo-franz-liszt",
-    "schedule": "2:15pm a 3:15pm",
-    "comments": "Casa-museo de Liszt (Oktogon). Metro M1 desde el centro. Cierra a las 18:00 lun–vie."
+    "placeId": "basilica-san-esteban",
+    "schedule": "2:30pm a 3:30pm",
+    "comments": "Basílica en Pest; subir a la cúpula si hay tiempo."
   },
   {
     "id": "act-20260601-6",
-    "placeId": "academia-musica-ferenc-liszt",
-    "schedule": "3:15pm a 4:10pm",
-    "comments": "Liszt Ferenc tér 8 — edificio y sala de conciertos. A pocos minutos de la Ópera por Andrássy."
+    "placeId": "palacio-de-la-bolsa",
+    "schedule": "3:45pm a 4:00pm",
+    "comments": "Exterior del palacio; caminata hacia el Danubio."
   },
   {
-    "id": "act-20260601-7",
+    "id": "act-20260601-8",
     "placeId": "opera-nacional-hungria",
     "schedule": "4:15pm a 5:30pm",
     "comments": "Llegar 15 min antes (4:15pm). Entrada comprada 4:30pm — visita guiada 1 h."
   },
   {
-    "id": "act-20260601-8",
+    "id": "act-20260601-9",
     "placeId": "new-york-cafe",
     "schedule": "5:40pm a 6:30pm",
     "comments": "Reservar mesa. Café histórico (~40€/persona). Cerca de la Ópera y el eje Andrássy."
   },
   {
-    "id": "act-20260601-9",
-    "placeId": "budapest-eye",
-    "schedule": "6:30pm a 6:50pm",
-    "comments": "Opcional: rueda en Erzsébet tér. Omitir si el café se alarga."
+    "id": "act-20260601-7",
+    "placeId": "puente-cadenas",
+    "schedule": "7:30pm a 8pm",
+    "comments": "Cruce peatonal y vistas del Danubio antes de la Ópera."
   },
   {
     "id": "act-20260601-10",
-    "placeId": "puente-cadenas",
-    "schedule": "6:50pm a 7:20pm",
-    "comments": "Cruce peatonal y vistas del Danubio iluminado — justo antes del crucero."
-  },
-  {
-    "id": "act-20260601-11",
     "placeId": "crucero-nocturno-danubio",
     "schedule": "8pm a 9pm",
-    "comments": "Vistas iluminadas del Parlamento, Castillo de Buda, Bastión y puentes. Embarque tras cruzar el puente."
+    "comments": "Vistas iluminadas del Parlamento, Castillo de Buda, Bastión y puentes. Embarque en el Danubio."
   }
 ]
