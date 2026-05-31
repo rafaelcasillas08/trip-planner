@@ -10,7 +10,7 @@ export default function App() {
   const firstDate = availableDates[0] ?? "";
 
   return (
-    <HashRouter basename="/trip-planner">
+    <HashRouter>
       <Routes>
         <Route element={<AppLayout />}>
           <Route index element={<Navigate to="/places" replace />} />
