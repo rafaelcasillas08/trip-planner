@@ -69,5 +69,5 @@ function ghPagesSpaFallback(): Plugin {
 
 export default defineConfig({
   base: "/trip-planner/",
-  plugins: [tailwindcss(), localPhotosPlugin(), ghPagesSpaFallback()],
+  plugins: [tailwindcss(), localPhotosPlugin(), react(), ghPagesSpaFallback()],
 });
