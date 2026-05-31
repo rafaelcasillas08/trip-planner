@@ -54,7 +54,20 @@ function localPhotosPlugin(): Plugin {
   };
 }
 
+function ghPagesSpaFallback(): Plugin {
+  return {
+    name: "gh-pages-spa-fallback",
+    closeBundle() {
+      const dist = path.resolve(__dirname, "dist");
+      fs.copyFileSync(
+        path.join(dist, "index.html"),
+        path.join(dist, "404.html"),
+      );
+    },
+  };
+}
+
 export default defineConfig({
-  plugins: [tailwindcss(), localPhotosPlugin(), react()],
   base: "/trip-planner/",
+  plugins: [tailwindcss(), localPhotosPlugin(), ghPagesSpaFallback()],
 });
