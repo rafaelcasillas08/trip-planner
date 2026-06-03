@@ -56,11 +56,6 @@ export default function ActivityCard({ activity, place }: ActivityCardProps) {
               {place.cost}
             </Tag>
           )}
-          {place?.timeNeeded && (
-            <Tag color="default" style={{ margin: 0, fontSize: 11 }}>
-              {place.timeNeeded}
-            </Tag>
-          )}
         </Space>
 
         {place?.location && (
