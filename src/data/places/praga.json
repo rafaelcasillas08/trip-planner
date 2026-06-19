@@ -48,21 +48,6 @@
     "lng": 14.4211422
   },
   {
-    "id": "ciudad-vieja-y-el-barrio-judio",
-    "cityId": "praga",
-    "name": "Free tour por la Ciudad Vieja y el barrio judío",
-    "location": "",
-    "photos": ["praga/ciudad-vieja-y-el-barrio-judio.png"],
-    "comments": "tour en español y gratis",
-    "cost": "",
-    "transport": "caminando",
-    "website": "",
-    "hours": "",
-    "timeNeeded": "2 horas y media",
-    "lat": 0,
-    "lng": 0
-  },
-  {
     "id": "singagoga-espanola",
     "cityId": "praga",
     "name": "Singagoga Española",
@@ -387,7 +372,7 @@
     "id": "opera-estatal-praga",
     "cityId": "praga",
     "name": "Ópera Estatal",
-    "location": "https://maps.app.goo.gl/ansDgWd4zBA8nt9p7",
+    "location": "https://maps.app.goo.gl/cvvtHMw8gsHWYXw98",
     "photos": ["praga/opera-estatal.png"],
     "comments": "Teatro inaugurado en 1888 con ópera de Wagner, friso neoclásico con dioses clásicos y auditorio neorrococó. Hay que reservar entrada para una representación.",
     "cost": "",
@@ -395,8 +380,8 @@
     "website": "",
     "hours": "",
     "timeNeeded": "45 minutos",
-    "lat": 48.2034306,
-    "lng": 16.3692034
+    "lat": 50.0807505,
+    "lng": 14.4325838
   },
   {
     "id": "cabeza-de-kafka",
