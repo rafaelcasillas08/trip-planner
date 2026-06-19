@@ -1,0 +1,90 @@
+[
+  {
+    "type": "breakfast",
+    "schedule": "7am a 7:30am",
+    "comments": "Temprano; llegar a Zwinger a las 8:30."
+  },
+  {
+    "id": "act-20260620-1",
+    "placeId": "zwinger-dresde",
+    "schedule": "8:30am a 11am",
+    "comments": "Primera visita del día. Jardín + un museo (Alte Meister o Porcelana Meissen). Si el museo abre a las 10:00, usar 8:30–10:00 para jardín y terrazas."
+  },
+  {
+    "id": "act-20260620-2",
+    "placeId": "semperoper-dresde",
+    "schedule": "11am a 11:30am",
+    "comments": "Exterior y patio; 30 min. Junto a Theaterplatz."
+  },
+  {
+    "id": "act-20260620-3",
+    "placeId": "hofkirche-dresde",
+    "schedule": "11:30am a 12pm",
+    "comments": "Interior; junto al Residenzschloss. Cierra 17:00 (sáb 10:00–17:00)."
+  },
+  {
+    "id": "act-20260620-4",
+    "placeId": "residenzschloss-dresde",
+    "schedule": "12pm a 2pm",
+    "comments": "Antes de comer. Grünes Gewölbe ~2 h. Apertura 10:00; cierra 17:00. Cerrado martes."
+  },
+  {
+    "type": "lunch",
+    "schedule": "2pm a 2:45pm",
+    "comments": "Neumarkt o Theaterplatz; cerca de Frauenkirche."
+  },
+  {
+    "id": "act-20260620-5",
+    "placeId": "fuerstenzug-dresde",
+    "schedule": "2:45pm a 3pm",
+    "comments": "Mural de porcelana; siempre abierto. Exterior."
+  },
+  {
+    "id": "act-20260620-6",
+    "placeId": "frauenkirche-dresde",
+    "schedule": "3pm a 3:30pm",
+    "comments": "Interior gratis; torre opcional (+30 min, recortar parque si subes)."
+  },
+  {
+    "id": "act-20260620-7",
+    "placeId": "palacio-gran-jardin-dresde",
+    "schedule": "4pm a 5pm",
+    "comments": "Traslado al Großer Garten ~3:30–4:00 (tranvía/bus). Interior; cierra 18:00."
+  },
+  {
+    "id": "act-20260620-8",
+    "placeId": "parque-grosser-dresde",
+    "schedule": "5pm a 5:45pm",
+    "comments": "Paseo tras el palacio; siempre abierto. Traslado de vuelta al centro ~5:45–5:50."
+  },
+  {
+    "id": "act-20260620-13",
+    "placeId": "yenidze-dresde",
+    "schedule": "6:30pm a 7pm",
+    "comments": "Orilla oeste del Elba; fachada y vistas. Traslado hacia Brühl ~6:10–6:20."
+  },
+  {
+    "id": "act-20260620-9",
+    "placeId": "museo-albertinum-dresde",
+    "schedule": "7:20pm a 7:30pm",
+    "comments": "Solo exterior. Inicio del bloque Terraza del Elba."
+  },
+  {
+    "id": "act-20260620-10",
+    "placeId": "antiguo-ministerio-de-finanzas-dresde",
+    "schedule": "7:30pm a 7:40pm",
+    "comments": "Solo exterior; visible desde la terraza."
+  },
+  {
+    "id": "act-20260620-11",
+    "placeId": "antiguo-edificio-ministerial-dresde",
+    "schedule": "7:40pm a 7:50pm",
+    "comments": "Solo exterior; misma caminata por Brühl."
+  },
+  {
+    "id": "act-20260620-12",
+    "placeId": "terraza-bruehl-dresde",
+    "schedule": "7:50pm a 8:10pm",
+    "comments": "Última actividad del día. Atardecer sobre el Elba."
+  }
+]

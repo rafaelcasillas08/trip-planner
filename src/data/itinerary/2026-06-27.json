@@ -1,0 +1,42 @@
+[
+  {
+    "type": "breakfast",
+    "schedule": "6am a 6:30am",
+    "comments": "Temprano; recogida tour Auschwitz ~6:30–7:00. Reservar con semanas de antelación."
+  },
+  {
+    "id": "act-20260627-1",
+    "placeId": "auschwitz-birkenau",
+    "schedule": "7am a 2:30pm",
+    "comments": "Excursión día completo: traslado ida (~2 h) + visita guiada Auschwitz I y Birkenau (~3 h 30) + traslado vuelta (~1 h). Día emocionalmente exigente."
+  },
+  {
+    "type": "lunch",
+    "schedule": "12:30pm a 1:30pm",
+    "comments": "En ruta o cerca del campo (incluido en tour o parada en camino)."
+  },
+  {
+    "id": "act-20260627-2",
+    "placeId": "teatro-juliusz-slowacki",
+    "schedule": "3pm a 3:25pm",
+    "comments": "Traslado ~30 min desde regreso del hotel/centro. Tras Auschwitz; fachada e interior barroco."
+  },
+  {
+    "id": "act-20260627-3",
+    "placeId": "barbacana",
+    "schedule": "3:25pm a 3:50pm",
+    "comments": "Fortificación gótica circular. Abre 10:00."
+  },
+  {
+    "id": "act-20260627-4",
+    "placeId": "puerta-florian",
+    "schedule": "3:50pm a 4:05pm",
+    "comments": "Antigua entrada medieval a la ciudad."
+  },
+  {
+    "id": "act-20260627-5",
+    "placeId": "calle-florianska",
+    "schedule": "4:05pm a 4:20pm",
+    "comments": "Camino Real norte; cierre del día caminando hacia Rynek."
+  }
+]

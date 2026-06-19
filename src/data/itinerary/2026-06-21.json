@@ -1,0 +1,121 @@
+[
+  {
+    "type": "breakfast",
+    "schedule": "6:30am a 7:15am",
+    "comments": "En Dresde antes del check-out; tren sale 7:50."
+  },
+  {
+    "type": "transfer",
+    "fromCityId": "dresde",
+    "toCityId": "praga",
+    "transportMode": "train",
+    "duration": "1h 50min",
+    "stationTime": "7:30am",
+    "departureTime": "7:50am",
+    "arrivalTime": "9:40am",
+    "comments": "Dresde Hbf → Praha hl.n. Llevar equipaje; reservar asientos si es posible.",
+    "toStationTransfer": {
+      "schedule": "7:15am a 7:30am",
+      "comments": "Hotel Dresde → Dresden Hbf."
+    },
+    "toHotelTransfer": {
+      "schedule": "9:40am a 10:40am",
+      "comments": "Praha hl.n. → hotel Praga; check-in o dejar maletas. En el hotel a más tardar 10:40."
+    }
+  },
+  {
+    "id": "act-20260621-1",
+    "placeId": "iglesia-de-nuestra-senora-de-tyn",
+    "schedule": "11:30am a 12pm",
+    "comments": "Primera actividad del día. Domingo: interior solo hasta las 12:00 — llegar antes del cierre."
+  },
+  {
+    "id": "act-20260621-2",
+    "placeId": "antiguo-ayuntamiento",
+    "schedule": "12pm a 12:20pm",
+    "comments": "Reloj astronómico; desfile cada hora 9:00–23:00."
+  },
+  {
+    "id": "act-20260621-3",
+    "placeId": "iglesia-de-san-nicolas",
+    "schedule": "12:20pm a 12:50pm",
+    "comments": "Iglesia barroca en la zona de la plaza. Abre 10:00; cierra 17:00."
+  },
+  {
+    "id": "act-20260621-4",
+    "placeId": "plaza-de-la-ciudad-vieja",
+    "schedule": "12:50pm a 1:10pm",
+    "comments": "Plaza principal; cierra bloque Ciudad Vieja."
+  },
+  {
+    "type": "lunch",
+    "schedule": "1:10pm a 2:10pm",
+    "comments": "Ciudad Vieja o camino a Josefov; habitual 13:00–14:00."
+  },
+  {
+    "id": "act-20260621-5",
+    "placeId": "the-old-new-synagogue",
+    "schedule": "2:10pm a 2:45pm",
+    "comments": "Bloque judío (14:10–15:40). Ticket Museo Judío."
+  },
+  {
+    "id": "act-20260621-6",
+    "placeId": "viejo-cementerio-judio",
+    "schedule": "2:45pm a 3pm",
+    "comments": "~5 min a pie desde la sinagoga."
+  },
+  {
+    "id": "act-20260621-7",
+    "placeId": "singagoga-espanola",
+    "schedule": "3pm a 3:30pm",
+    "comments": "Sinagoga morisca; cierra bloque Josefov."
+  },
+  {
+    "id": "act-20260621-8",
+    "placeId": "museo-nacional-de-praga",
+    "schedule": "4pm a 5:30pm",
+    "comments": "Visita interior; reservar 90 min. Abre 10:00; cierra 18:00."
+  },
+  {
+    "id": "act-20260621-9",
+    "placeId": "plaza-de-wenceslao",
+    "schedule": "5:30pm a 5:45pm",
+    "comments": "Corazón de Nove Mesto; 15 min."
+  },
+  {
+    "id": "act-20260621-10",
+    "placeId": "opera-estatal-praga",
+    "schedule": "5:45pm a 5:55pm",
+    "comments": "Solo exterior (friso neoclásico); 15 min."
+  },
+  {
+    "id": "act-20260621-11",
+    "placeId": "klementinum",
+    "schedule": "5:30pm a 7:30pm",
+    "comments": "Biblioteca barroca; visita guiada 1 h. Comprar entrada."
+  },
+  {
+    "id": "act-20260621-12",
+    "placeId": "municipal-library-of-prague",
+    "schedule": "7:30pm a 8pm",
+    "comments": "Columna de libros; foto rápida 30 min."
+  },
+  {
+    "id": "act-20260621-14",
+    "placeId": "calle-celetna",
+    "schedule": "8:20pm a 8:30pm",
+    "comments": "Camino Real hacia la Casa Municipal."
+  },
+  {
+    "id": "act-20260621-13",
+    "placeId": "torre-de-la-polvora",
+    "schedule": "8:30pm a 8:45pm",
+    "comments": "Cierre del día; solo exterior. Abr–sep 10:00–22:00."
+  },
+  {
+    "id": "act-20260621-15",
+    "placeId": "casa-municipal",
+    "schedule": "8:45pm a 9pm",
+    "comments": "Solo exterior; puente cubierto con la Torre de la Pólvora."
+  }
+]

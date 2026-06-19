@@ -1,0 +1,66 @@
+[
+  {
+    "type": "breakfast",
+    "schedule": "7am a 8am",
+    "comments": "Temprano; castillo abre a las 9:00. Sin trabajo hoy."
+  },
+  {
+    "id": "act-20260622-1",
+    "placeId": "catedral-de-san-vito",
+    "schedule": "8:30am a 9:30am",
+    "comments": "Inicio bloque castillo (8:30–13:00). Tranvía 22 o subida Nerudova. Apertura catedral 9:00."
+  },
+  {
+    "id": "act-20260622-3",
+    "placeId": "castillo-de-praga",
+    "schedule": "9:30am a 12:30pm",
+    "comments": "Recorrido exterior y patios; cierra bloque castillo a la 13:00."
+  },
+  {
+    "id": "act-20260622-2",
+    "placeId": "callejon-del-oro",
+    "schedule": "12:30pm a 1pm",
+    "comments": "24 casas de colores dentro del complejo."
+  },
+  {
+    "type": "lunch",
+    "schedule": "1pm a 2pm",
+    "comments": "Cerca del castillo o camino a Strahov."
+  },
+  {
+    "id": "act-20260622-4",
+    "placeId": "monasterio-de-strahov",
+    "schedule": "2:30pm a 4pm",
+    "comments": "Traslado ~30 min tras el lunch (14:00–14:30). Biblioteca 1 h 30. Abre 9:00; cierra 17:00."
+  },
+  {
+    "id": "act-20260622-5",
+    "placeId": "monte-petrin",
+    "schedule": "4:30pm a 5:30pm",
+    "comments": "Traslado ~30 min (16:00–16:30) desde Strahov. Funicular Újezd–Petrín + torre mirador, 1 h."
+  },
+  {
+    "id": "act-20260622-6",
+    "placeId": "mala-strana",
+    "schedule": "5:30pm a 6pm",
+    "comments": "Bajada desde Petřín; paseo Malostranské y Nerudova."
+  },
+  {
+    "id": "act-20260622-7",
+    "placeId": "isla-de-kampa",
+    "schedule": "6pm a 6:45pm",
+    "comments": "Muro de John Lennon y molinos bajo el puente."
+  },
+  {
+    "id": "act-20260622-8",
+    "placeId": "puente-de-carlos",
+    "schedule": "6:45pm a 7:30pm",
+    "comments": "Atardecer; 30 estatuas. Siempre abierto."
+  },
+  {
+    "id": "act-20260622-9",
+    "placeId": "teatro-negro",
+    "schedule": "8pm a 9pm",
+    "comments": "Espectáculo nocturno (~20:00). Reservar entrada con antelación. Cierre del día."
+  }
+]

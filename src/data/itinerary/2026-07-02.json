@@ -1,0 +1,26 @@
+[
+  {
+    "type": "breakfast",
+    "schedule": "7am a 8am",
+    "comments": "En Varsovia; check-out y equipaje listo antes del traslado."
+  },
+  {
+    "type": "transfer",
+    "fromCityId": "varsovia",
+    "toCityId": "berlin",
+    "transportMode": "train",
+    "duration": "6h",
+    "stationTime": "8:30am",
+    "departureTime": "9am",
+    "arrivalTime": "3pm",
+    "comments": "Warszawa Centralna → Berlin Hbf. Llevar equipaje; reservar asientos si es posible. Ajustar horarios al billete real.",
+    "toStationTransfer": {
+      "schedule": "8am a 8:30am",
+      "comments": "Hotel Varsovia → Warszawa Centralna."
+    },
+    "toHotelTransfer": {
+      "schedule": "3pm a 4pm",
+      "comments": "Berlin Hbf → hotel Berlín; check-in."
+    }
+  }
+]

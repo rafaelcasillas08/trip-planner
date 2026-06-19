@@ -1,0 +1,108 @@
+[
+  {
+    "type": "breakfast",
+    "schedule": "8am a 8:50am",
+    "comments": "Desayuno + caminata hacia Wawel. Catedral abre 9:00. Primer día de actividades en Cracovia."
+  },
+  {
+    "id": "act-20260625-1",
+    "placeId": "catedral-de-cracovia",
+    "schedule": "9am a 9:30am",
+    "comments": "Primera actividad del día. Capilla renacentista, campana de Segismundo y criptas."
+  },
+  {
+    "id": "act-20260625-2",
+    "placeId": "monumento-juan-pablo-ii",
+    "schedule": "9:30am a 9:35am",
+    "comments": "Mismo recinto Wawel; sin traslado."
+  },
+  {
+    "id": "act-20260625-3",
+    "placeId": "castillo-de-wawel",
+    "schedule": "9:40am a 11:10am",
+    "comments": "Traslado ~5 min desde el monumento. Visita compacta 90 min (tesoro, armería o apartamentos reales). Abre 9:00."
+  },
+  {
+    "id": "act-20260625-4",
+    "placeId": "dragon-de-wawel",
+    "schedule": "11:10am a 11:20am",
+    "comments": "Salida natural del castillo; cueva del dragón y estatua."
+  },
+  {
+    "id": "act-20260625-5",
+    "placeId": "calle-grodzka",
+    "schedule": "11:30am a 11:45am",
+    "comments": "Traslado ~10 min bajando desde Wawel. Camino Real hacia el Rynek."
+  },
+  {
+    "id": "act-20260625-6",
+    "placeId": "church-of-saints-peter-and-paul",
+    "schedule": "11:45am a 12:05pm",
+    "comments": "Iglesia barroca en Grodzka."
+  },
+  {
+    "id": "act-20260625-7",
+    "placeId": "basilica-san-francisco-de-asis",
+    "schedule": "12:10pm a 12:30pm",
+    "comments": "Traslado ~5 min. Vidrieras y placa de Juan Pablo II."
+  },
+  {
+    "id": "act-20260625-8",
+    "placeId": "basilica-de-la-santa-trinidad",
+    "schedule": "12:35pm a 12:55pm",
+    "comments": "Traslado ~5 min. Convento dominico."
+  },
+  {
+    "type": "lunch",
+    "schedule": "1:05pm a 2:05pm",
+    "comments": "Rynek; traslado ~10 min desde Grodzka."
+  },
+  {
+    "id": "act-20260625-9",
+    "placeId": "plaza-del-mercado",
+    "schedule": "2:05pm a 2:20pm",
+    "comments": "Inicio bloque Rynek Główny."
+  },
+  {
+    "id": "act-20260625-10",
+    "placeId": "lonja-de-los-panos",
+    "schedule": "2:20pm a 2:35pm",
+    "comments": "Misma plaza; centro de artesanía renacentista."
+  },
+  {
+    "id": "act-20260625-11",
+    "placeId": "torre-del-antiguo-ayuntamiento",
+    "schedule": "2:35pm a 2:50pm",
+    "comments": "Torre gótica; vistas sobre la plaza."
+  },
+  {
+    "id": "act-20260625-12",
+    "placeId": "basilica-de-santa-maria",
+    "schedule": "2:50pm a 3:10pm",
+    "comments": "Interior y retablo medieval. Torre Hejnalica omitida (requiere taquilla antes de 9:00). Abre 11:30."
+  },
+  {
+    "id": "act-20260625-13",
+    "placeId": "museo-subterraneo-rynek",
+    "schedule": "3:15pm a 3:40pm",
+    "comments": "Traslado ~5 min. Cracovia medieval bajo la plaza. Abre 10:00."
+  },
+  {
+    "id": "act-20260625-14",
+    "placeId": "plaza-maly-rynek",
+    "schedule": "3:45pm a 3:55pm",
+    "comments": "Traslado ~5 min. Plaza trasera de Santa María."
+  },
+  {
+    "id": "act-20260625-15",
+    "placeId": "collegium-maius",
+    "schedule": "3:55pm a 4:25pm",
+    "comments": "Traslado ~5 min. Patio y museo Copérnico; visita compacta. Cierra 16:30 entre semana."
+  },
+  {
+    "id": "act-20260625-16",
+    "placeId": "parque-planty",
+    "schedule": "4:30pm a 5:05pm",
+    "comments": "Tramo sur del anillo Planty; cierre del día."
+  }
+]

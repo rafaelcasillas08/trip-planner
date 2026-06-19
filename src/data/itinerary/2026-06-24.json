@@ -1,0 +1,26 @@
+[
+  {
+    "type": "breakfast",
+    "schedule": "7am a 8am",
+    "comments": "En Praga antes del check-out."
+  },
+  {
+    "type": "transfer",
+    "fromCityId": "praga",
+    "toCityId": "cracovia",
+    "transportMode": "train",
+    "duration": "6h 30min",
+    "stationTime": "8:30am",
+    "departureTime": "9am",
+    "arrivalTime": "3:30pm",
+    "comments": "Praha hl.n. → Kraków Główny. Llevar equipaje; reservar asientos si es posible. Ajustar al billete real.",
+    "toStationTransfer": {
+      "schedule": "8am a 8:30am",
+      "comments": "Hotel Praga → Praha hl.n."
+    },
+    "toHotelTransfer": {
+      "schedule": "3:30pm a 4:30pm",
+      "comments": "Kraków Główny → hotel Cracovia; check-in."
+    }
+  }
+]

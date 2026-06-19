@@ -1,0 +1,36 @@
+[
+  {
+    "type": "breakfast",
+    "schedule": "8am a 9am",
+    "comments": "En Cracovia; check-out y equipaje listo antes del traslado."
+  },
+  {
+    "type": "transfer",
+    "fromCityId": "cracovia",
+    "toCityId": "varsovia",
+    "transportMode": "train",
+    "duration": "4h",
+    "departureTime": "12pm",
+    "arrivalTime": "4pm",
+    "comments": "Cracovia → Varsovia. Llevar equipaje; ajustar estación y billete al reserva real.",
+    "toStationTransfer": {
+      "schedule": "11am a 12pm",
+      "comments": "Hotel Cracovia → estación; margen antes de la salida."
+    },
+    "toHotelTransfer": {
+      "schedule": "4pm a 5:30pm",
+      "comments": "Estación Varsovia → hotel; check-in y dejar maletas."
+    }
+  },
+  {
+    "id": "act-20260628-1",
+    "placeId": "parque-lazienki",
+    "schedule": "6pm a 8pm",
+    "comments": "Traslado al parque ~17:30–18:00. Paseo atardecer: monumento a Chopin, lago y palacio sobre el agua (exterior). Parque abierto hasta 21:00."
+  },
+  {
+    "type": "dinner",
+    "schedule": "8pm a 9:30pm",
+    "comments": "Cena cerca del alojamiento o regreso desde Łazienki."
+  }
+]

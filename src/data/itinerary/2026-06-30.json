@@ -1,0 +1,83 @@
+[
+  {
+    "type": "breakfast",
+    "schedule": "7:30am a 8am",
+    "comments": ""
+  },
+  {
+    "id": "act-20260630-1",
+    "placeId": "iglesia-de-la-santa-cruz",
+    "schedule": "8:30am a 9am",
+    "comments": ""
+  },
+  {
+    "id": "act-20260630-2",
+    "placeId": "iglesia-de-san-jacek",
+    "schedule": "9am a 9:20am",
+    "comments": ""
+  },
+  {
+    "id": "act-20260630-3",
+    "placeId": "barbacana-varsovia",
+    "schedule": "9:20pm a 9:35pm",
+    "comments": "Solo exterior; única visita a la Barbacana en el viaje."
+  },
+  {
+    "id": "act-20260630-4",
+    "placeId": "ciudad-vieja",
+    "schedule": "9:35am a 9:45am",
+    "comments": "Ciudad Vieja y Plaza del Mercado."
+  },
+  {
+    "id": "act-20260630-5",
+    "placeId": "catedral-de-san-juan",
+    "schedule": "9:45am a 10am",
+    "comments": "Catedral gótica; acceso antes de la apertura del castillo."
+  },
+  {
+    "id": "act-20260630-6",
+    "placeId": "castillo-real-de-varsovia",
+    "schedule": "10am a 12:30pm",
+    "comments": "Interior y jardines; reservar ~2 h 30. Abre 10:00, cierra 18:00."
+  },
+  {
+    "id": "act-20260630-7",
+    "placeId": "iglesia-de-santa-ana",
+    "schedule": "12:30pm a 12:45pm",
+    "comments": "Iglesia gótica-barroca; torre mirador opcional."
+  },
+  {
+    "type": "lunch",
+    "schedule": "1pm a 2pm",
+    "comments": ""
+  },
+  {
+    "id": "act-20260630-8",
+    "placeId": "polish-army-museum",
+    "schedule": "2:30am a 4:30pm",
+    "comments": "Palacio de Cultura y Ciencia; mirador y museo. Cierra 18:00; cerrado lunes."
+  },
+  {
+    "id": "act-20260630-9",
+    "placeId": "monumento-a-los-heroes-del-levantamiento",
+    "schedule": "5pm a 5:10pm",
+    "comments": "Monumento a los Héroes del Levantamiento de 1944."
+  },
+  {
+    "id": "act-20260630-10",
+    "placeId": "supreme-court-of-poland",
+    "schedule": "5:10pm a 5:20pm",
+    "comments": "Tribunal Supremo; arquitectura neoclásica."
+  },
+  {
+    "id": "act-20260630-11",
+    "placeId": "palacio-del-commonwealth",
+    "schedule": "5:20pm a 6pm",
+    "comments": "Manuscritos de Chopin; abre 11:00, cierra 19:00. Solo si hay tiempo, si no hasta el miercoles"
+  },
+  {
+    "type": "work",
+    "schedule": "6pm a 11pm",
+    "comments": ""
+  }
+]

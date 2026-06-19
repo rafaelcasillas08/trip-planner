@@ -1,0 +1,66 @@
+[
+  {
+    "type": "breakfast",
+    "schedule": "6:30am a 7am",
+    "comments": "Temprano; excursión minas de sal. Salida hacia Wieliczka ~7:00."
+  },
+  {
+    "id": "act-20260626-1",
+    "placeId": "minas-de-sal-de-wieliczka",
+    "schedule": "7am a 12pm",
+    "comments": "Traslado ida ~30 min + visita guiada 90 min + traslado vuelta ~30 min. Mejor escenario: regreso a zona sur/Kazimierz ~12:00. Reservar entrada con antelación."
+  },
+  {
+    "id": "act-20260626-2",
+    "placeId": "fabrica-de-oskar-schindler",
+    "schedule": "12pm a 1pm",
+    "comments": "Traslado ~15 min desde punto de regreso. Visita 1 h. Abre 9:00."
+  },
+  {
+    "id": "act-20260626-3",
+    "placeId": "monumento-de-las-sillas",
+    "schedule": "1pm a 1:15pm",
+    "comments": "Plac Bohaterów Getta; ~5 min a pie desde Schindler."
+  },
+  {
+    "id": "act-20260626-4",
+    "placeId": "iglesia-de-san-jose",
+    "schedule": "1:20pm a 1:40pm",
+    "comments": "Traslado ~5 min. Iglesia gótica en Podgórze."
+  },
+  {
+    "id": "act-20260626-5",
+    "placeId": "puente-del-padre-bernatek",
+    "schedule": "1:45pm a 2pm",
+    "comments": "Cruce del Vístula de vuelta hacia Kazimierz."
+  },
+  {
+    "id": "act-20260626-6",
+    "placeId": "basilica-de-san-miguel-arcangel",
+    "schedule": "2:05pm a 2:25pm",
+    "comments": "Traslado ~5 min. Bloque Kazimierz en orden inverso."
+  },
+  {
+    "id": "act-20260626-7",
+    "placeId": "basilica-del-corpus-cristi",
+    "schedule": "2:25pm a 2:45pm",
+    "comments": "Basílica gótica en Kazimierz."
+  },
+  {
+    "id": "act-20260626-8",
+    "placeId": "sinagoga-tempel",
+    "schedule": "2:45pm a 3:05pm",
+    "comments": "Sinagoga del siglo XIX. Abre 10:00; cierra 16:00."
+  },
+  {
+    "type": "lunch",
+    "schedule": "3:05pm a 4:05pm",
+    "comments": "Kazimierz; comida judía o cafés del barrio."
+  },
+  {
+    "id": "act-20260626-9",
+    "placeId": "barrio-judio-kazimierz",
+    "schedule": "4:05pm a 4:50pm",
+    "comments": "Paseo Szeroka y calles del barrio judío; cierre del día."
+  }
+]

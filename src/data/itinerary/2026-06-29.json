@@ -1,0 +1,53 @@
+[
+  {
+    "type": "breakfast",
+    "schedule": "7am a 7:45am",
+    "comments": "Temprano; salida hacia Wilanów ~8:15."
+  },
+  {
+    "id": "act-20260629-1",
+    "placeId": "palacio-de-wilanow",
+    "schedule": "9am a 1pm",
+    "comments": "Traslado ida ~45 min (bus 116/180 o taxi). Salas reales + jardines barrocos. Visita 3 h."
+  },
+  {
+    "type": "lunch",
+    "schedule": "1pm a 2pm",
+    "comments": "Traslado vuelta al centro + comida."
+  },
+  {
+    "id": "act-20260629-2",
+    "placeId": "museo-polin-de-la-historia-de-los-judios-polacos",
+    "schedule": "2:30pm a 4pm",
+    "comments": "Historia judía en Polonia; cierra 18:00. Entrada con ticket."
+  },
+  {
+    "id": "act-20260629-3",
+    "placeId": "museo-del-levantamiento-varsovia",
+    "schedule": "4:30pm a 6pm",
+    "comments": "Museo inmersivo WWII; abre 8:00, cierra 18:00. Traslado ~15 min desde el centro."
+  },
+  {
+    "id": "act-20260629-4",
+    "placeId": "gueto-de-varsovia",
+    "schedule": "6pm a 6:30pm",
+    "comments": "~15 min a pie desde POLIN. Monumentos y fragmentos del muro."
+  },
+  {
+    "id": "act-20260629-5",
+    "placeId": "orthodox-cathedral-of-st-mary-magdalene",
+    "schedule": "7pm a 7:20pm",
+    "comments": ""
+  },
+  {
+    "id": "act-20260629-6",
+    "placeId": "cementerio-judio-varsovia",
+    "schedule": "7:30pm a 8pm",
+    "comments": ""
+  },
+  {
+    "type": "dinner",
+    "schedule": "7:10pm a 9pm",
+    "comments": "Cena en Praga o regreso al centro. Día largo; límite actividades 21:00."
+  }
+]

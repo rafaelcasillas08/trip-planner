@@ -1,0 +1,36 @@
+[
+  {
+    "type": "breakfast",
+    "schedule": "6:30am a 7am",
+    "comments": "Temprano; excursión sale ~7:30–8:00."
+  },
+  {
+    "id": "act-20260623-1",
+    "placeId": "kutna-hora",
+    "schedule": "8am a 2pm",
+    "comments": "Excursión medio día a Kutná Hora (templo de los huesos). Regreso estimado a Praga ~14:00. Ajustar al tour o tren contratado."
+  },
+  {
+    "type": "lunch",
+    "schedule": "2pm a 3pm",
+    "comments": "Tras regresar de Kutná Hora; antes de Vyšehrad."
+  },
+  {
+    "id": "act-20260623-2",
+    "placeId": "vysehrad",
+    "schedule": "3pm a 5pm",
+    "comments": "Fortaleza al sur; murallas, iglesia y vistas al río. Tranvía o metro ~20 min desde el centro."
+  },
+  {
+    "id": "act-20260623-3",
+    "placeId": "cabeza-de-kafka",
+    "schedule": "5:20pm a 5:35pm",
+    "comments": "Monumento giratorio; animación cada hora en punto. ~20 min desde Vyšehrad al centro."
+  },
+  {
+    "type": "work",
+    "id": "work-20260623",
+    "schedule": "6pm a 12am",
+    "comments": "En el hotel desde las 18:00."
+  }
+]
